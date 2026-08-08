@@ -1,0 +1,89 @@
+{
+  "regression_leaderboard": [
+    {
+      "name": "demand_forecast_model",
+      "algorithm": "random_forest",
+      "trained_at": "2026-08-05T07:12:34.143967+00:00",
+      "description": "Regression model forecasting monthly product unit demand.",
+      "mae": 15.655494316851884,
+      "rmse": 20.881778686042757,
+      "r2": 0.3593233208186617
+    },
+    {
+      "name": "revenue_forecast_model",
+      "algorithm": "xgboost",
+      "trained_at": "2026-08-05T07:11:51.401899+00:00",
+      "description": "Revenue forecast model trained on monthly enterprise finance features.",
+      "mae": 65522311.603428565,
+      "rmse": 89413785.34809649,
+      "r2": -4.465787887823408
+    }
+  ],
+  "classification_leaderboard": [
+    {
+      "name": "churn_prediction_model",
+      "algorithm": "xgboost",
+      "trained_at": "2026-08-05T07:12:05.241739+00:00",
+      "description": "Classification model trained to predict customer churn probability.",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0,
+      "silhouette": NaN,
+      "davies_bouldin": NaN
+    },
+    {
+      "name": "financial_risk_model",
+      "algorithm": "random_forest_classification",
+      "trained_at": "2026-08-05T07:12:06.314684+00:00",
+      "description": "Classifier model predicting financial risk categories (Low/Medium/High).",
+      "accuracy": 0.9772727272727273,
+      "precision": NaN,
+      "recall": NaN,
+      "f1": NaN,
+      "roc_auc": NaN,
+      "silhouette": NaN,
+      "davies_bouldin": NaN
+    },
+    {
+      "name": "operational_risk_model",
+      "algorithm": "random_forest_classification",
+      "trained_at": "2026-08-05T07:12:25.349187+00:00",
+      "description": "Classifier model predicting operational stockout and warehousing risk.",
+      "accuracy": 1.0,
+      "precision": NaN,
+      "recall": NaN,
+      "f1": NaN,
+      "roc_auc": NaN,
+      "silhouette": NaN,
+      "davies_bouldin": NaN
+    },
+    {
+      "name": "customer_risk_model",
+      "algorithm": "random_forest_classification",
+      "trained_at": "2026-08-05T07:12:26.739709+00:00",
+      "description": "Classifier model predicting customer attrition and relationship risk.",
+      "accuracy": 1.0,
+      "precision": NaN,
+      "recall": NaN,
+      "f1": NaN,
+      "roc_auc": NaN,
+      "silhouette": NaN,
+      "davies_bouldin": NaN
+    },
+    {
+      "name": "customer_segmentation_model",
+      "algorithm": "kmeans_clustering",
+      "trained_at": "2026-08-05T07:12:37.697454+00:00",
+      "description": "Clustering model categorizing customers based on scale and activity.",
+      "accuracy": NaN,
+      "precision": NaN,
+      "recall": NaN,
+      "f1": NaN,
+      "roc_auc": NaN,
+      "silhouette": 0.34049959843162364,
+      "davies_bouldin": 0.9840828396346875
+    }
+  ]
+}

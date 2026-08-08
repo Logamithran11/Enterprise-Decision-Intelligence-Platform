@@ -1,0 +1,1592 @@
+{
+  "customer_features": [
+    {
+      "column": "customer_id",
+      "dtype": "str"
+    },
+    {
+      "column": "customer_name",
+      "dtype": "str"
+    },
+    {
+      "column": "country",
+      "dtype": "str"
+    },
+    {
+      "column": "signup_date",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "employee_count",
+      "dtype": "int64"
+    },
+    {
+      "column": "annual_revenue",
+      "dtype": "int64"
+    },
+    {
+      "column": "engagement_score",
+      "dtype": "float64"
+    },
+    {
+      "column": "customer_health_score",
+      "dtype": "float64"
+    },
+    {
+      "column": "churn_risk_score",
+      "dtype": "float64"
+    },
+    {
+      "column": "churn_flag",
+      "dtype": "int64"
+    },
+    {
+      "column": "total_orders",
+      "dtype": "float64"
+    },
+    {
+      "column": "total_revenue",
+      "dtype": "float64"
+    },
+    {
+      "column": "average_order_value",
+      "dtype": "float64"
+    },
+    {
+      "column": "average_discount_rate",
+      "dtype": "float64"
+    },
+    {
+      "column": "average_shipping_days",
+      "dtype": "float64"
+    },
+    {
+      "column": "max_order_value",
+      "dtype": "float64"
+    },
+    {
+      "column": "min_order_value",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_std",
+      "dtype": "float64"
+    },
+    {
+      "column": "last_order_date",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "first_order_date",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "order_amount_lag_1",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_amount_roll_mean_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_amount_roll_mean_5",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_per_order",
+      "dtype": "float64"
+    },
+    {
+      "column": "customer_tenure_days",
+      "dtype": "float64"
+    },
+    {
+      "column": "days_since_last_order",
+      "dtype": "float64"
+    },
+    {
+      "column": "customer_name_kpi",
+      "dtype": "str"
+    },
+    {
+      "column": "segment_kpi",
+      "dtype": "str"
+    },
+    {
+      "column": "industry_kpi",
+      "dtype": "str"
+    },
+    {
+      "column": "region_kpi",
+      "dtype": "str"
+    },
+    {
+      "column": "country_kpi",
+      "dtype": "str"
+    },
+    {
+      "column": "signup_date_kpi",
+      "dtype": "str"
+    },
+    {
+      "column": "employee_count_kpi",
+      "dtype": "int64"
+    },
+    {
+      "column": "annual_revenue_kpi",
+      "dtype": "int64"
+    },
+    {
+      "column": "engagement_score_kpi",
+      "dtype": "float64"
+    },
+    {
+      "column": "customer_health_score_kpi",
+      "dtype": "float64"
+    },
+    {
+      "column": "churn_risk_score_kpi",
+      "dtype": "float64"
+    },
+    {
+      "column": "churn_flag_kpi",
+      "dtype": "int64"
+    },
+    {
+      "column": "total_orders_kpi",
+      "dtype": "float64"
+    },
+    {
+      "column": "total_revenue_kpi",
+      "dtype": "float64"
+    },
+    {
+      "column": "total_margin",
+      "dtype": "float64"
+    },
+    {
+      "column": "recent_order_count",
+      "dtype": "int64"
+    },
+    {
+      "column": "recent_revenue",
+      "dtype": "float64"
+    },
+    {
+      "column": "recent_avg_discount",
+      "dtype": "float64"
+    },
+    {
+      "column": "recent_avg_shipping_days",
+      "dtype": "float64"
+    },
+    {
+      "column": "recent_last_order",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "days_since_last_order_kpi",
+      "dtype": "int64"
+    },
+    {
+      "column": "order_velocity",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_90d_target",
+      "dtype": "float64"
+    },
+    {
+      "column": "signup_year",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_month",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_quarter",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_dayofweek",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_day",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_is_month_start",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_is_month_end",
+      "dtype": "int64"
+    },
+    {
+      "column": "last_order_year",
+      "dtype": "int64"
+    },
+    {
+      "column": "last_order_month",
+      "dtype": "int64"
+    },
+    {
+      "column": "last_order_quarter",
+      "dtype": "int64"
+    },
+    {
+      "column": "last_order_dayofweek",
+      "dtype": "int64"
+    },
+    {
+      "column": "last_order_day",
+      "dtype": "int64"
+    },
+    {
+      "column": "last_order_is_month_start",
+      "dtype": "int64"
+    },
+    {
+      "column": "last_order_is_month_end",
+      "dtype": "int64"
+    },
+    {
+      "column": "customer_lifetime_revenue_ratio",
+      "dtype": "float64"
+    },
+    {
+      "column": "customer_activity_score",
+      "dtype": "float64"
+    },
+    {
+      "column": "segment_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "segment_Enterprise",
+      "dtype": "float64"
+    },
+    {
+      "column": "segment_Mid-Market",
+      "dtype": "float64"
+    },
+    {
+      "column": "segment_SMB",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_Education",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_Energy",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_Finance",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_Government",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_Healthcare",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_Logistics",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_Manufacturing",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_Retail",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_Technology",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_Telecom",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_Asia Pacific",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_Europe",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_Latin America",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_Middle East & Africa",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_North America",
+      "dtype": "float64"
+    },
+    {
+      "column": "annual_revenue_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "total_revenue_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "average_order_value_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "customer_activity_score_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "annual_revenue_robust_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "total_revenue_robust_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "average_order_value_robust_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "customer_activity_score_robust_scaled",
+      "dtype": "float64"
+    }
+  ],
+  "sales_features": [
+    {
+      "column": "order_id",
+      "dtype": "str"
+    },
+    {
+      "column": "customer_id",
+      "dtype": "str"
+    },
+    {
+      "column": "product_id",
+      "dtype": "str"
+    },
+    {
+      "column": "campaign_id",
+      "dtype": "str"
+    },
+    {
+      "column": "order_date",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "quantity",
+      "dtype": "int64"
+    },
+    {
+      "column": "unit_price",
+      "dtype": "float64"
+    },
+    {
+      "column": "discount_rate",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_amount",
+      "dtype": "float64"
+    },
+    {
+      "column": "shipping_days",
+      "dtype": "int64"
+    },
+    {
+      "column": "category_x",
+      "dtype": "str"
+    },
+    {
+      "column": "gross_margin",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_month",
+      "dtype": "int64"
+    },
+    {
+      "column": "industry",
+      "dtype": "str"
+    },
+    {
+      "column": "region",
+      "dtype": "str"
+    },
+    {
+      "column": "annual_revenue",
+      "dtype": "int64"
+    },
+    {
+      "column": "category_y",
+      "dtype": "str"
+    },
+    {
+      "column": "subcategory",
+      "dtype": "str"
+    },
+    {
+      "column": "unit_cost",
+      "dtype": "float64"
+    },
+    {
+      "column": "list_price",
+      "dtype": "float64"
+    },
+    {
+      "column": "margin_rate",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_year",
+      "dtype": "int64"
+    },
+    {
+      "column": "order_quarter",
+      "dtype": "int64"
+    },
+    {
+      "column": "order_dayofweek",
+      "dtype": "int64"
+    },
+    {
+      "column": "order_day",
+      "dtype": "int64"
+    },
+    {
+      "column": "order_is_month_start",
+      "dtype": "int64"
+    },
+    {
+      "column": "order_is_month_end",
+      "dtype": "int64"
+    },
+    {
+      "column": "sales_channel_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_status_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "segment_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "sales_channel_target_encoded",
+      "dtype": "float64"
+    },
+    {
+      "column": "segment_target_encoded",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_status_ordinal",
+      "dtype": "float64"
+    },
+    {
+      "column": "sales_channel_Account Management",
+      "dtype": "float64"
+    },
+    {
+      "column": "sales_channel_Direct",
+      "dtype": "float64"
+    },
+    {
+      "column": "sales_channel_Field Sales",
+      "dtype": "float64"
+    },
+    {
+      "column": "sales_channel_Online",
+      "dtype": "float64"
+    },
+    {
+      "column": "sales_channel_Partner",
+      "dtype": "float64"
+    },
+    {
+      "column": "segment_Enterprise",
+      "dtype": "float64"
+    },
+    {
+      "column": "segment_Mid-Market",
+      "dtype": "float64"
+    },
+    {
+      "column": "segment_SMB",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_amount_lag_1",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_amount_lag_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "discount_rate_lag_1",
+      "dtype": "float64"
+    },
+    {
+      "column": "discount_rate_lag_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_amount_roll_mean_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_amount_roll_std_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_amount_roll_mean_7",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_amount_roll_std_7",
+      "dtype": "float64"
+    },
+    {
+      "column": "discount_rate_roll_mean_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "discount_rate_roll_std_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "discount_rate_roll_mean_7",
+      "dtype": "float64"
+    },
+    {
+      "column": "discount_rate_roll_std_7",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_amount_minmax_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "discount_rate_minmax_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "unit_price_minmax_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "annual_revenue_minmax_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "margin_rate_minmax_scaled",
+      "dtype": "float64"
+    }
+  ],
+  "finance_features": [
+    {
+      "column": "order_month",
+      "dtype": "str"
+    },
+    {
+      "column": "revenue",
+      "dtype": "float64"
+    },
+    {
+      "column": "gross_margin",
+      "dtype": "float64"
+    },
+    {
+      "column": "order_count",
+      "dtype": "int64"
+    },
+    {
+      "column": "cogs",
+      "dtype": "float64"
+    },
+    {
+      "column": "opex",
+      "dtype": "float64"
+    },
+    {
+      "column": "ebitda",
+      "dtype": "float64"
+    },
+    {
+      "column": "cash_balance",
+      "dtype": "float64"
+    },
+    {
+      "column": "debt_balance",
+      "dtype": "float64"
+    },
+    {
+      "column": "dscr",
+      "dtype": "float64"
+    },
+    {
+      "column": "month_index",
+      "dtype": "int64"
+    },
+    {
+      "column": "revenue_lag_1",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_lag_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "gross_margin_lag_1",
+      "dtype": "float64"
+    },
+    {
+      "column": "gross_margin_lag_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "ebitda_lag_1",
+      "dtype": "float64"
+    },
+    {
+      "column": "ebitda_lag_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "cash_balance_lag_1",
+      "dtype": "float64"
+    },
+    {
+      "column": "cash_balance_lag_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_roll_mean_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_roll_std_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_roll_mean_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_roll_std_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "gross_margin_roll_mean_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "gross_margin_roll_std_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "gross_margin_roll_mean_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "gross_margin_roll_std_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "ebitda_roll_mean_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "ebitda_roll_std_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "ebitda_roll_mean_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "ebitda_roll_std_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "cash_balance_roll_mean_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "cash_balance_roll_std_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "cash_balance_roll_mean_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "cash_balance_roll_std_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_robust_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "gross_margin_robust_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "ebitda_robust_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "cash_balance_robust_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "debt_balance_robust_scaled",
+      "dtype": "float64"
+    }
+  ],
+  "marketing_features": [
+    {
+      "column": "campaign_id",
+      "dtype": "str"
+    },
+    {
+      "column": "campaign_name",
+      "dtype": "str"
+    },
+    {
+      "column": "start_date",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "end_date",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "budget",
+      "dtype": "int64"
+    },
+    {
+      "column": "leads_generated",
+      "dtype": "int64"
+    },
+    {
+      "column": "conversion_rate",
+      "dtype": "float64"
+    },
+    {
+      "column": "attributed_revenue",
+      "dtype": "float64"
+    },
+    {
+      "column": "campaign_start_year",
+      "dtype": "int64"
+    },
+    {
+      "column": "campaign_start_month",
+      "dtype": "int64"
+    },
+    {
+      "column": "campaign_start_quarter",
+      "dtype": "int64"
+    },
+    {
+      "column": "campaign_start_dayofweek",
+      "dtype": "int64"
+    },
+    {
+      "column": "campaign_start_day",
+      "dtype": "int64"
+    },
+    {
+      "column": "campaign_start_is_month_start",
+      "dtype": "int64"
+    },
+    {
+      "column": "campaign_start_is_month_end",
+      "dtype": "int64"
+    },
+    {
+      "column": "campaign_duration_days",
+      "dtype": "int64"
+    },
+    {
+      "column": "cost_per_lead",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_per_budget",
+      "dtype": "float64"
+    },
+    {
+      "column": "channel_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "target_segment_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "channel_target_encoded",
+      "dtype": "float64"
+    },
+    {
+      "column": "target_segment_target_encoded",
+      "dtype": "float64"
+    },
+    {
+      "column": "channel_Content",
+      "dtype": "float64"
+    },
+    {
+      "column": "channel_Email",
+      "dtype": "float64"
+    },
+    {
+      "column": "channel_Events",
+      "dtype": "float64"
+    },
+    {
+      "column": "channel_Partner",
+      "dtype": "float64"
+    },
+    {
+      "column": "channel_Search",
+      "dtype": "float64"
+    },
+    {
+      "column": "channel_Social",
+      "dtype": "float64"
+    },
+    {
+      "column": "target_segment_Enterprise",
+      "dtype": "float64"
+    },
+    {
+      "column": "target_segment_Mid-Market",
+      "dtype": "float64"
+    },
+    {
+      "column": "target_segment_SMB",
+      "dtype": "float64"
+    },
+    {
+      "column": "budget_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "leads_generated_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "conversion_rate_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "attributed_revenue_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "cost_per_lead_standard_scaled",
+      "dtype": "float64"
+    }
+  ],
+  "inventory_features": [
+    {
+      "column": "snapshot_date",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "product_id",
+      "dtype": "str"
+    },
+    {
+      "column": "on_hand_units",
+      "dtype": "int64"
+    },
+    {
+      "column": "reserved_units",
+      "dtype": "int64"
+    },
+    {
+      "column": "reorder_point",
+      "dtype": "int64"
+    },
+    {
+      "column": "stockout_risk",
+      "dtype": "float64"
+    },
+    {
+      "column": "inventory_value",
+      "dtype": "float64"
+    },
+    {
+      "column": "unit_cost",
+      "dtype": "float64"
+    },
+    {
+      "column": "list_price",
+      "dtype": "float64"
+    },
+    {
+      "column": "margin_rate",
+      "dtype": "float64"
+    },
+    {
+      "column": "snapshot_year",
+      "dtype": "int64"
+    },
+    {
+      "column": "snapshot_month",
+      "dtype": "int64"
+    },
+    {
+      "column": "snapshot_quarter",
+      "dtype": "int64"
+    },
+    {
+      "column": "snapshot_dayofweek",
+      "dtype": "int64"
+    },
+    {
+      "column": "snapshot_day",
+      "dtype": "int64"
+    },
+    {
+      "column": "snapshot_is_month_start",
+      "dtype": "int64"
+    },
+    {
+      "column": "snapshot_is_month_end",
+      "dtype": "int64"
+    },
+    {
+      "column": "on_hand_units_lag_1",
+      "dtype": "float64"
+    },
+    {
+      "column": "on_hand_units_lag_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "on_hand_units_lag_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "reserved_units_lag_1",
+      "dtype": "float64"
+    },
+    {
+      "column": "reserved_units_lag_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "reserved_units_lag_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "stockout_risk_lag_1",
+      "dtype": "float64"
+    },
+    {
+      "column": "stockout_risk_lag_2",
+      "dtype": "float64"
+    },
+    {
+      "column": "stockout_risk_lag_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "on_hand_units_roll_mean_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "on_hand_units_roll_std_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "on_hand_units_roll_mean_6",
+      "dtype": "float64"
+    },
+    {
+      "column": "on_hand_units_roll_std_6",
+      "dtype": "float64"
+    },
+    {
+      "column": "reserved_units_roll_mean_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "reserved_units_roll_std_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "reserved_units_roll_mean_6",
+      "dtype": "float64"
+    },
+    {
+      "column": "reserved_units_roll_std_6",
+      "dtype": "float64"
+    },
+    {
+      "column": "stockout_risk_roll_mean_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "stockout_risk_roll_std_3",
+      "dtype": "float64"
+    },
+    {
+      "column": "stockout_risk_roll_mean_6",
+      "dtype": "float64"
+    },
+    {
+      "column": "stockout_risk_roll_std_6",
+      "dtype": "float64"
+    },
+    {
+      "column": "inventory_utilization",
+      "dtype": "float64"
+    },
+    {
+      "column": "warehouse_id_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "category_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "warehouse_id_WH-Central",
+      "dtype": "float64"
+    },
+    {
+      "column": "warehouse_id_WH-East",
+      "dtype": "float64"
+    },
+    {
+      "column": "warehouse_id_WH-North",
+      "dtype": "float64"
+    },
+    {
+      "column": "warehouse_id_WH-South",
+      "dtype": "float64"
+    },
+    {
+      "column": "warehouse_id_WH-West",
+      "dtype": "float64"
+    },
+    {
+      "column": "category_Analytics",
+      "dtype": "float64"
+    },
+    {
+      "column": "category_Automation",
+      "dtype": "float64"
+    },
+    {
+      "column": "category_Finance",
+      "dtype": "float64"
+    },
+    {
+      "column": "category_Operations",
+      "dtype": "float64"
+    },
+    {
+      "column": "category_Security",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Budgeting",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Compliance",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Dashboards",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Data Modeling",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Expense Control",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Forecasting",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_IAM",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Integration",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Inventory Control",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Logistics",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Maintenance",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Planning",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Procurement",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_RPA",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Reporting",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Revenue Ops",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Risk Scoring",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Scheduling",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Threat Detection",
+      "dtype": "float64"
+    },
+    {
+      "column": "subcategory_Workflow",
+      "dtype": "float64"
+    },
+    {
+      "column": "on_hand_units_minmax_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "reserved_units_minmax_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "reorder_point_minmax_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "inventory_value_minmax_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "stockout_risk_minmax_scaled",
+      "dtype": "float64"
+    }
+  ],
+  "employee_features": [
+    {
+      "column": "employee_id",
+      "dtype": "str"
+    },
+    {
+      "column": "employee_name",
+      "dtype": "str"
+    },
+    {
+      "column": "hire_date",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "salary",
+      "dtype": "int64"
+    },
+    {
+      "column": "performance_score",
+      "dtype": "float64"
+    },
+    {
+      "column": "manager_id",
+      "dtype": "str"
+    },
+    {
+      "column": "is_active",
+      "dtype": "int64"
+    },
+    {
+      "column": "hire_year",
+      "dtype": "int64"
+    },
+    {
+      "column": "hire_month",
+      "dtype": "int64"
+    },
+    {
+      "column": "hire_quarter",
+      "dtype": "int64"
+    },
+    {
+      "column": "hire_dayofweek",
+      "dtype": "int64"
+    },
+    {
+      "column": "hire_day",
+      "dtype": "int64"
+    },
+    {
+      "column": "hire_is_month_start",
+      "dtype": "int64"
+    },
+    {
+      "column": "hire_is_month_end",
+      "dtype": "int64"
+    },
+    {
+      "column": "tenure_days",
+      "dtype": "int64"
+    },
+    {
+      "column": "salary_performance_ratio",
+      "dtype": "float64"
+    },
+    {
+      "column": "department_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "level_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "department_Customer Success",
+      "dtype": "float64"
+    },
+    {
+      "column": "department_Executive",
+      "dtype": "float64"
+    },
+    {
+      "column": "department_Finance",
+      "dtype": "float64"
+    },
+    {
+      "column": "department_IT",
+      "dtype": "float64"
+    },
+    {
+      "column": "department_Marketing",
+      "dtype": "float64"
+    },
+    {
+      "column": "department_Operations",
+      "dtype": "float64"
+    },
+    {
+      "column": "department_Sales",
+      "dtype": "float64"
+    },
+    {
+      "column": "department_Supply Chain",
+      "dtype": "float64"
+    },
+    {
+      "column": "level_Director",
+      "dtype": "float64"
+    },
+    {
+      "column": "level_Junior",
+      "dtype": "float64"
+    },
+    {
+      "column": "level_Lead",
+      "dtype": "float64"
+    },
+    {
+      "column": "level_Mid",
+      "dtype": "float64"
+    },
+    {
+      "column": "level_Senior",
+      "dtype": "float64"
+    },
+    {
+      "column": "level_VP",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_Asia Pacific",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_Europe",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_Latin America",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_Middle East & Africa",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_North America",
+      "dtype": "float64"
+    },
+    {
+      "column": "salary_robust_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "performance_score_robust_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "tenure_days_robust_scaled",
+      "dtype": "float64"
+    }
+  ],
+  "kpi_features": [
+    {
+      "column": "customer_id",
+      "dtype": "str"
+    },
+    {
+      "column": "customer_name",
+      "dtype": "str"
+    },
+    {
+      "column": "segment",
+      "dtype": "str"
+    },
+    {
+      "column": "industry",
+      "dtype": "str"
+    },
+    {
+      "column": "region",
+      "dtype": "str"
+    },
+    {
+      "column": "country",
+      "dtype": "str"
+    },
+    {
+      "column": "signup_date",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "employee_count",
+      "dtype": "int64"
+    },
+    {
+      "column": "annual_revenue",
+      "dtype": "int64"
+    },
+    {
+      "column": "engagement_score",
+      "dtype": "float64"
+    },
+    {
+      "column": "customer_health_score",
+      "dtype": "float64"
+    },
+    {
+      "column": "churn_risk_score",
+      "dtype": "float64"
+    },
+    {
+      "column": "churn_flag",
+      "dtype": "int64"
+    },
+    {
+      "column": "total_orders",
+      "dtype": "float64"
+    },
+    {
+      "column": "total_revenue",
+      "dtype": "float64"
+    },
+    {
+      "column": "total_margin",
+      "dtype": "float64"
+    },
+    {
+      "column": "recent_order_count",
+      "dtype": "int64"
+    },
+    {
+      "column": "recent_revenue",
+      "dtype": "float64"
+    },
+    {
+      "column": "recent_avg_discount",
+      "dtype": "float64"
+    },
+    {
+      "column": "recent_avg_shipping_days",
+      "dtype": "float64"
+    },
+    {
+      "column": "recent_last_order",
+      "dtype": "datetime64[us, UTC]"
+    },
+    {
+      "column": "days_since_last_order",
+      "dtype": "int64"
+    },
+    {
+      "column": "order_velocity",
+      "dtype": "float64"
+    },
+    {
+      "column": "revenue_90d_target",
+      "dtype": "float64"
+    },
+    {
+      "column": "signup_year",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_month",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_quarter",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_dayofweek",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_day",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_is_month_start",
+      "dtype": "int64"
+    },
+    {
+      "column": "signup_is_month_end",
+      "dtype": "int64"
+    },
+    {
+      "column": "recent_order_year",
+      "dtype": "int64"
+    },
+    {
+      "column": "recent_order_month",
+      "dtype": "int64"
+    },
+    {
+      "column": "recent_order_quarter",
+      "dtype": "int64"
+    },
+    {
+      "column": "recent_order_dayofweek",
+      "dtype": "int64"
+    },
+    {
+      "column": "recent_order_day",
+      "dtype": "int64"
+    },
+    {
+      "column": "recent_order_is_month_start",
+      "dtype": "int64"
+    },
+    {
+      "column": "recent_order_is_month_end",
+      "dtype": "int64"
+    },
+    {
+      "column": "recent_revenue_ratio",
+      "dtype": "float64"
+    },
+    {
+      "column": "customer_value_proxy",
+      "dtype": "float64"
+    },
+    {
+      "column": "segment_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "industry_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "region_frequency",
+      "dtype": "float64"
+    },
+    {
+      "column": "total_orders_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "total_revenue_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "recent_revenue_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "days_since_last_order_standard_scaled",
+      "dtype": "float64"
+    },
+    {
+      "column": "customer_value_proxy_standard_scaled",
+      "dtype": "float64"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+forecast_month,predicted_next_month_revenue,actual_current_month_revenue,model_name
+2026-08-01 00:00:00,62714200.0,62445803.41,xgboost

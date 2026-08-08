@@ -1,0 +1,11 @@
+table_name,input_rows,output_rows,null_count_before,null_count_after,duplicate_rows_removed
+customers,8000,8000,0,0,0
+products,900,900,0,0,0
+suppliers,160,160,0,0,0
+employees,420,420,15,0,0
+marketing_campaigns,2400,2400,0,0,0
+orders,120000,120000,0,0,0
+inventory_snapshots,129600,129600,0,0,0
+finance_monthly,44,44,0,0,0
+operations_daily,5248,5248,0,0,0
+customer_kpis,8000,8000,1597,148,0

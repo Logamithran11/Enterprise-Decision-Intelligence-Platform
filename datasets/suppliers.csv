@@ -1,0 +1,161 @@
+supplier_id,supplier_name,supplier_type,region,country,lead_time_days,reliability_score,contract_value
+SUP-00001,Supplier 0001,OEM,Asia Pacific,Supplier-Country-01,45,87.34,10919427
+SUP-00002,Supplier 0002,Regional Supplier,Asia Pacific,Supplier-Country-02,33,70.73,4462508
+SUP-00003,Supplier 0003,OEM,Asia Pacific,Supplier-Country-03,8,91.01,11699510
+SUP-00004,Supplier 0004,Distributor,North America,Supplier-Country-04,15,99.0,5749030
+SUP-00005,Supplier 0005,OEM,Latin America,Supplier-Country-05,45,65.33,1263103
+SUP-00006,Supplier 0006,OEM,Asia Pacific,Supplier-Country-06,18,94.45,6636066
+SUP-00007,Supplier 0007,Distributor,Middle East & Africa,Supplier-Country-07,40,99.0,13634325
+SUP-00008,Supplier 0008,Strategic Partner,North America,Supplier-Country-08,13,94.49,14793234
+SUP-00009,Supplier 0009,Regional Supplier,Middle East & Africa,Supplier-Country-09,40,85.27,7022092
+SUP-00010,Supplier 0010,Distributor,Latin America,Supplier-Country-10,22,94.07,9861780
+SUP-00011,Supplier 0011,Regional Supplier,North America,Supplier-Country-11,15,85.22,11606427
+SUP-00012,Supplier 0012,Regional Supplier,Asia Pacific,Supplier-Country-12,32,90.88,6246477
+SUP-00013,Supplier 0013,Distributor,Middle East & Africa,Supplier-Country-13,29,86.75,10515056
+SUP-00014,Supplier 0014,Strategic Partner,Latin America,Supplier-Country-14,12,87.0,13119292
+SUP-00015,Supplier 0015,Distributor,Europe,Supplier-Country-15,40,79.14,12021473
+SUP-00016,Supplier 0016,Regional Supplier,Latin America,Supplier-Country-16,36,81.83,8422613
+SUP-00017,Supplier 0017,OEM,North America,Supplier-Country-17,21,99.0,481760
+SUP-00018,Supplier 0018,Regional Supplier,North America,Supplier-Country-00,42,80.42,10679782
+SUP-00019,Supplier 0019,Distributor,Asia Pacific,Supplier-Country-01,8,68.4,9702296
+SUP-00020,Supplier 0020,OEM,North America,Supplier-Country-02,44,99.0,7214156
+SUP-00021,Supplier 0021,Distributor,Asia Pacific,Supplier-Country-03,23,82.07,4869917
+SUP-00022,Supplier 0022,Strategic Partner,North America,Supplier-Country-04,38,83.58,7064520
+SUP-00023,Supplier 0023,OEM,Europe,Supplier-Country-05,41,82.38,5727436
+SUP-00024,Supplier 0024,Regional Supplier,Asia Pacific,Supplier-Country-06,39,86.14,2259814
+SUP-00025,Supplier 0025,Regional Supplier,Middle East & Africa,Supplier-Country-07,11,79.17,2163311
+SUP-00026,Supplier 0026,Strategic Partner,North America,Supplier-Country-08,22,99.0,5045323
+SUP-00027,Supplier 0027,Strategic Partner,Europe,Supplier-Country-09,10,84.2,8633637
+SUP-00028,Supplier 0028,OEM,Asia Pacific,Supplier-Country-10,16,76.59,445366
+SUP-00029,Supplier 0029,Regional Supplier,North America,Supplier-Country-11,30,60.18,10869219
+SUP-00030,Supplier 0030,Distributor,North America,Supplier-Country-12,34,95.85,549930
+SUP-00031,Supplier 0031,Distributor,Asia Pacific,Supplier-Country-13,15,82.03,3768346
+SUP-00032,Supplier 0032,Distributor,Europe,Supplier-Country-14,9,89.38,13739859
+SUP-00033,Supplier 0033,Distributor,Latin America,Supplier-Country-15,22,77.64,2468137
+SUP-00034,Supplier 0034,OEM,Middle East & Africa,Supplier-Country-16,29,86.84,3746639
+SUP-00035,Supplier 0035,Strategic Partner,Europe,Supplier-Country-17,22,85.75,14277374
+SUP-00036,Supplier 0036,Distributor,North America,Supplier-Country-00,44,94.29,1205487
+SUP-00037,Supplier 0037,Regional Supplier,Middle East & Africa,Supplier-Country-01,34,87.49,3746112
+SUP-00038,Supplier 0038,OEM,Europe,Supplier-Country-02,31,75.89,8396247
+SUP-00039,Supplier 0039,OEM,North America,Supplier-Country-03,8,99.0,5027169
+SUP-00040,Supplier 0040,Strategic Partner,Middle East & Africa,Supplier-Country-04,43,89.91,8887244
+SUP-00041,Supplier 0041,OEM,Asia Pacific,Supplier-Country-05,32,77.5,13239462
+SUP-00042,Supplier 0042,Strategic Partner,Middle East & Africa,Supplier-Country-06,45,87.7,6931632
+SUP-00043,Supplier 0043,Strategic Partner,Middle East & Africa,Supplier-Country-07,26,89.52,6364530
+SUP-00044,Supplier 0044,Strategic Partner,Latin America,Supplier-Country-08,33,90.36,4723864
+SUP-00045,Supplier 0045,Strategic Partner,Middle East & Africa,Supplier-Country-09,26,89.27,5068089
+SUP-00046,Supplier 0046,Regional Supplier,North America,Supplier-Country-10,40,88.21,8719911
+SUP-00047,Supplier 0047,Strategic Partner,Latin America,Supplier-Country-11,34,94.26,1181698
+SUP-00048,Supplier 0048,Regional Supplier,North America,Supplier-Country-12,22,92.55,2309779
+SUP-00049,Supplier 0049,Regional Supplier,North America,Supplier-Country-13,32,92.72,11855103
+SUP-00050,Supplier 0050,Distributor,Middle East & Africa,Supplier-Country-14,11,70.01,6694572
+SUP-00051,Supplier 0051,Regional Supplier,North America,Supplier-Country-15,33,70.39,11078227
+SUP-00052,Supplier 0052,Strategic Partner,North America,Supplier-Country-16,25,78.86,12827173
+SUP-00053,Supplier 0053,Distributor,Asia Pacific,Supplier-Country-17,18,83.76,4198862
+SUP-00054,Supplier 0054,Regional Supplier,Europe,Supplier-Country-00,40,79.16,5758220
+SUP-00055,Supplier 0055,Strategic Partner,Middle East & Africa,Supplier-Country-01,40,76.86,9198145
+SUP-00056,Supplier 0056,Strategic Partner,Latin America,Supplier-Country-02,9,88.15,10466798
+SUP-00057,Supplier 0057,Distributor,North America,Supplier-Country-03,31,78.14,1004482
+SUP-00058,Supplier 0058,OEM,North America,Supplier-Country-04,8,64.37,8542921
+SUP-00059,Supplier 0059,Strategic Partner,Middle East & Africa,Supplier-Country-05,24,73.78,3597934
+SUP-00060,Supplier 0060,Regional Supplier,Latin America,Supplier-Country-06,44,80.51,6898159
+SUP-00061,Supplier 0061,Regional Supplier,Middle East & Africa,Supplier-Country-07,26,83.68,12190896
+SUP-00062,Supplier 0062,OEM,Europe,Supplier-Country-08,12,94.09,2468775
+SUP-00063,Supplier 0063,Distributor,Middle East & Africa,Supplier-Country-09,16,89.91,14223225
+SUP-00064,Supplier 0064,Strategic Partner,Asia Pacific,Supplier-Country-10,8,67.95,5205028
+SUP-00065,Supplier 0065,OEM,North America,Supplier-Country-11,37,99.0,11602092
+SUP-00066,Supplier 0066,Regional Supplier,Middle East & Africa,Supplier-Country-12,41,84.21,2857847
+SUP-00067,Supplier 0067,Strategic Partner,North America,Supplier-Country-13,17,86.62,10849246
+SUP-00068,Supplier 0068,Regional Supplier,North America,Supplier-Country-14,17,87.09,12625008
+SUP-00069,Supplier 0069,Distributor,Europe,Supplier-Country-15,29,78.33,10059025
+SUP-00070,Supplier 0070,Strategic Partner,Middle East & Africa,Supplier-Country-16,37,91.07,13988459
+SUP-00071,Supplier 0071,Distributor,Asia Pacific,Supplier-Country-17,43,68.47,1240355
+SUP-00072,Supplier 0072,OEM,North America,Supplier-Country-00,44,98.06,13758856
+SUP-00073,Supplier 0073,OEM,Middle East & Africa,Supplier-Country-01,28,87.69,8395850
+SUP-00074,Supplier 0074,OEM,Asia Pacific,Supplier-Country-02,32,89.27,3860262
+SUP-00075,Supplier 0075,Regional Supplier,Middle East & Africa,Supplier-Country-03,8,90.74,10158364
+SUP-00076,Supplier 0076,OEM,Latin America,Supplier-Country-04,9,82.03,7389131
+SUP-00077,Supplier 0077,Regional Supplier,Europe,Supplier-Country-05,44,97.44,11484251
+SUP-00078,Supplier 0078,Strategic Partner,North America,Supplier-Country-06,16,79.47,10991309
+SUP-00079,Supplier 0079,Strategic Partner,Middle East & Africa,Supplier-Country-07,29,76.99,10712730
+SUP-00080,Supplier 0080,Strategic Partner,North America,Supplier-Country-08,18,87.34,12642236
+SUP-00081,Supplier 0081,Strategic Partner,Middle East & Africa,Supplier-Country-09,14,73.6,5041934
+SUP-00082,Supplier 0082,Regional Supplier,Latin America,Supplier-Country-10,38,80.9,3566006
+SUP-00083,Supplier 0083,OEM,Asia Pacific,Supplier-Country-11,26,88.35,8762648
+SUP-00084,Supplier 0084,Strategic Partner,Asia Pacific,Supplier-Country-12,11,92.62,3605078
+SUP-00085,Supplier 0085,Regional Supplier,Asia Pacific,Supplier-Country-13,21,85.66,12142357
+SUP-00086,Supplier 0086,Strategic Partner,North America,Supplier-Country-14,23,77.86,13700696
+SUP-00087,Supplier 0087,OEM,Middle East & Africa,Supplier-Country-15,23,82.97,7507422
+SUP-00088,Supplier 0088,OEM,Latin America,Supplier-Country-16,37,79.99,11884241
+SUP-00089,Supplier 0089,Strategic Partner,Middle East & Africa,Supplier-Country-17,25,85.12,6272610
+SUP-00090,Supplier 0090,Strategic Partner,Asia Pacific,Supplier-Country-00,30,80.42,13187640
+SUP-00091,Supplier 0091,Strategic Partner,Middle East & Africa,Supplier-Country-01,39,77.2,1487875
+SUP-00092,Supplier 0092,OEM,North America,Supplier-Country-02,43,76.08,14771090
+SUP-00093,Supplier 0093,Distributor,Latin America,Supplier-Country-03,16,69.45,8276759
+SUP-00094,Supplier 0094,Distributor,Middle East & Africa,Supplier-Country-04,31,95.73,14377585
+SUP-00095,Supplier 0095,Distributor,Asia Pacific,Supplier-Country-05,32,92.44,10670757
+SUP-00096,Supplier 0096,Strategic Partner,Asia Pacific,Supplier-Country-06,33,74.94,10978236
+SUP-00097,Supplier 0097,Strategic Partner,Middle East & Africa,Supplier-Country-07,35,91.86,5406993
+SUP-00098,Supplier 0098,Distributor,Europe,Supplier-Country-08,11,86.38,10030616
+SUP-00099,Supplier 0099,Strategic Partner,North America,Supplier-Country-09,45,74.37,11326385
+SUP-00100,Supplier 0100,Strategic Partner,Europe,Supplier-Country-10,35,76.55,11077538
+SUP-00101,Supplier 0101,Strategic Partner,Middle East & Africa,Supplier-Country-11,19,84.66,14902221
+SUP-00102,Supplier 0102,Distributor,Europe,Supplier-Country-12,22,92.67,984268
+SUP-00103,Supplier 0103,OEM,Europe,Supplier-Country-13,14,91.35,3232734
+SUP-00104,Supplier 0104,Regional Supplier,Asia Pacific,Supplier-Country-14,30,81.15,6538396
+SUP-00105,Supplier 0105,Regional Supplier,Asia Pacific,Supplier-Country-15,43,90.13,9381255
+SUP-00106,Supplier 0106,Distributor,Middle East & Africa,Supplier-Country-16,23,84.54,8900729
+SUP-00107,Supplier 0107,Strategic Partner,Latin America,Supplier-Country-17,44,79.39,5136132
+SUP-00108,Supplier 0108,Distributor,Latin America,Supplier-Country-00,35,94.64,2148547
+SUP-00109,Supplier 0109,Regional Supplier,North America,Supplier-Country-01,37,87.4,3751525
+SUP-00110,Supplier 0110,OEM,Middle East & Africa,Supplier-Country-02,9,90.6,11732737
+SUP-00111,Supplier 0111,Distributor,Europe,Supplier-Country-03,22,76.12,8446194
+SUP-00112,Supplier 0112,Strategic Partner,North America,Supplier-Country-04,26,81.32,354000
+SUP-00113,Supplier 0113,Strategic Partner,Europe,Supplier-Country-05,44,93.38,5851167
+SUP-00114,Supplier 0114,Distributor,Latin America,Supplier-Country-06,38,83.47,6051364
+SUP-00115,Supplier 0115,Strategic Partner,North America,Supplier-Country-07,29,83.99,9356138
+SUP-00116,Supplier 0116,Distributor,Latin America,Supplier-Country-08,40,76.45,12217720
+SUP-00117,Supplier 0117,Distributor,North America,Supplier-Country-09,15,87.77,9993891
+SUP-00118,Supplier 0118,Regional Supplier,Middle East & Africa,Supplier-Country-10,13,76.29,14868005
+SUP-00119,Supplier 0119,OEM,North America,Supplier-Country-11,39,89.29,6274598
+SUP-00120,Supplier 0120,Strategic Partner,Middle East & Africa,Supplier-Country-12,37,77.06,12333371
+SUP-00121,Supplier 0121,Strategic Partner,Latin America,Supplier-Country-13,25,84.12,351907
+SUP-00122,Supplier 0122,Strategic Partner,North America,Supplier-Country-14,19,99.0,4694941
+SUP-00123,Supplier 0123,Regional Supplier,Asia Pacific,Supplier-Country-15,9,89.29,13702907
+SUP-00124,Supplier 0124,Regional Supplier,North America,Supplier-Country-16,12,82.88,969245
+SUP-00125,Supplier 0125,Distributor,North America,Supplier-Country-17,37,93.71,14434356
+SUP-00126,Supplier 0126,Distributor,Europe,Supplier-Country-00,30,79.49,7802358
+SUP-00127,Supplier 0127,Regional Supplier,Europe,Supplier-Country-01,38,77.12,4233018
+SUP-00128,Supplier 0128,Strategic Partner,Latin America,Supplier-Country-02,8,82.72,505538
+SUP-00129,Supplier 0129,Regional Supplier,Latin America,Supplier-Country-03,40,95.89,12938349
+SUP-00130,Supplier 0130,Regional Supplier,Europe,Supplier-Country-04,28,95.38,2727590
+SUP-00131,Supplier 0131,Regional Supplier,Europe,Supplier-Country-05,13,81.53,13700959
+SUP-00132,Supplier 0132,Regional Supplier,Middle East & Africa,Supplier-Country-06,44,83.44,14881854
+SUP-00133,Supplier 0133,OEM,Asia Pacific,Supplier-Country-07,20,89.78,3427790
+SUP-00134,Supplier 0134,Strategic Partner,Latin America,Supplier-Country-08,20,99.0,10537921
+SUP-00135,Supplier 0135,Strategic Partner,Latin America,Supplier-Country-09,37,83.86,7345714
+SUP-00136,Supplier 0136,Strategic Partner,Latin America,Supplier-Country-10,25,98.44,8680494
+SUP-00137,Supplier 0137,Regional Supplier,Middle East & Africa,Supplier-Country-11,36,88.25,1341485
+SUP-00138,Supplier 0138,Distributor,Latin America,Supplier-Country-12,29,93.68,6724044
+SUP-00139,Supplier 0139,Distributor,North America,Supplier-Country-13,41,95.12,6742152
+SUP-00140,Supplier 0140,OEM,Asia Pacific,Supplier-Country-14,17,87.58,8431743
+SUP-00141,Supplier 0141,OEM,Europe,Supplier-Country-15,28,85.74,4703952
+SUP-00142,Supplier 0142,OEM,Europe,Supplier-Country-16,14,84.14,6623827
+SUP-00143,Supplier 0143,Strategic Partner,Europe,Supplier-Country-17,19,89.16,2573482
+SUP-00144,Supplier 0144,Distributor,Middle East & Africa,Supplier-Country-00,45,96.69,5048232
+SUP-00145,Supplier 0145,Distributor,Middle East & Africa,Supplier-Country-01,23,97.9,8405037
+SUP-00146,Supplier 0146,Regional Supplier,Europe,Supplier-Country-02,34,96.9,9374142
+SUP-00147,Supplier 0147,Strategic Partner,Asia Pacific,Supplier-Country-03,18,81.81,2059976
+SUP-00148,Supplier 0148,OEM,Asia Pacific,Supplier-Country-04,8,80.89,9249831
+SUP-00149,Supplier 0149,Regional Supplier,Latin America,Supplier-Country-05,32,78.55,5394403
+SUP-00150,Supplier 0150,Strategic Partner,Middle East & Africa,Supplier-Country-06,15,87.39,3761383
+SUP-00151,Supplier 0151,Distributor,Asia Pacific,Supplier-Country-07,26,94.4,12969594
+SUP-00152,Supplier 0152,Distributor,Asia Pacific,Supplier-Country-08,36,80.91,11718375
+SUP-00153,Supplier 0153,Regional Supplier,Asia Pacific,Supplier-Country-09,29,84.35,10243076
+SUP-00154,Supplier 0154,Distributor,Asia Pacific,Supplier-Country-10,9,91.82,6395068
+SUP-00155,Supplier 0155,Strategic Partner,Middle East & Africa,Supplier-Country-11,33,83.11,12115565
+SUP-00156,Supplier 0156,Distributor,North America,Supplier-Country-12,22,84.29,6327998
+SUP-00157,Supplier 0157,Strategic Partner,North America,Supplier-Country-13,16,96.03,3614950
+SUP-00158,Supplier 0158,Regional Supplier,Europe,Supplier-Country-14,33,86.21,7263119
+SUP-00159,Supplier 0159,OEM,Europe,Supplier-Country-15,41,79.52,8496301
+SUP-00160,Supplier 0160,OEM,Asia Pacific,Supplier-Country-16,15,86.87,9380442

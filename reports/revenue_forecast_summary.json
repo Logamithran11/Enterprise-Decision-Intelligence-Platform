@@ -1,0 +1,24 @@
+{
+  "best_model": {
+    "model_name": "revenue_forecast_model",
+    "path": "C:\\vs project\\Agilisium MITU\\trained_models\\revenue_forecast_model.joblib",
+    "mae": 65522311.603428565,
+    "rmse": 89413785.34809649,
+    "r2": -4.465787887823408,
+    "description": "Revenue forecast model trained on monthly enterprise finance features."
+  },
+  "xgb_optimization": {
+    "best_params": {
+      "n_estimators": 316,
+      "max_depth": 3,
+      "learning_rate": 0.1362879030668468,
+      "subsample": 0.9936012030567207,
+      "colsample_bytree": 0.9608848030094779,
+      "min_child_weight": 1.596268280612386,
+      "gamma": 0.3928381751591563
+    },
+    "best_mae": 66201067.032000005
+  },
+  "feature_count": 75,
+  "row_count": 43
+}

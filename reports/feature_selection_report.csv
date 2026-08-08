@@ -1,0 +1,13 @@
+dataset,feature_name,rank,importance_method
+customer_features,customer_health_score,1,combined
+customer_features,churn_risk_score,2,combined
+customer_features,churn_flag,3,combined
+customer_features,customer_health_score_kpi,4,combined
+customer_features,churn_risk_score_kpi,5,combined
+customer_features,churn_flag_kpi,6,combined
+customer_features,total_orders_kpi,7,combined
+customer_features,customer_activity_score,8,combined
+customer_features,customer_activity_score_standard_scaled,9,combined
+customer_features,customer_activity_score_robust_scaled,10,combined
+customer_features,engagement_score_kpi,11,combined
+customer_features,total_revenue_kpi,12,combined

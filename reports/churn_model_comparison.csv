@@ -1,0 +1,4 @@
+model_name,accuracy,precision,recall,f1,roc_auc
+xgboost,1.0,1.0,1.0,1.0,1.0
+xgboost_optimized,1.0,1.0,1.0,1.0,1.0
+random_forest,0.9998437499999999,1.0,0.9997905759162304,0.9998952331063384,1.0

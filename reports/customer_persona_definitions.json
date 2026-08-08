@@ -1,0 +1,38 @@
+{
+  "0": {
+    "persona_name": "Stable Mid-Market",
+    "centroid": {
+      "annual_revenue_standard_scaled": -0.5205297438893488,
+      "total_revenue_standard_scaled": -0.4402233425960109,
+      "average_order_value_standard_scaled": 1.251243906351592,
+      "customer_activity_score_standard_scaled": -0.6881754742770644
+    }
+  },
+  "1": {
+    "persona_name": "Enterprise Champions",
+    "centroid": {
+      "annual_revenue_standard_scaled": 1.8712814005742187,
+      "total_revenue_standard_scaled": 1.7465785462634125,
+      "average_order_value_standard_scaled": 0.021168401781569646,
+      "customer_activity_score_standard_scaled": 1.3913627084724658
+    }
+  },
+  "2": {
+    "persona_name": "Stable Mid-Market (Group 3)",
+    "centroid": {
+      "annual_revenue_standard_scaled": -0.5223577364075297,
+      "total_revenue_standard_scaled": -0.7212255812423182,
+      "average_order_value_standard_scaled": -0.8562032248551684,
+      "customer_activity_score_standard_scaled": -0.6956937661519406
+    }
+  },
+  "3": {
+    "persona_name": "Active Growth SMB",
+    "centroid": {
+      "annual_revenue_standard_scaled": -0.25998088892501936,
+      "total_revenue_standard_scaled": 0.013818051481203412,
+      "average_order_value_standard_scaled": 0.04116704736695684,
+      "customer_activity_score_standard_scaled": 0.43825258933676026
+    }
+  }
+}

@@ -1,0 +1,101 @@
+employee_id,employee_name,department,designation,manager_id,joining_date,salary,bonus,performance_score,experience_years,email,phone,region
+EMP000001,Allison Hill,Sales,Senior Engineer,,2023-06-29,112665,11266.5,2.8,6,jillrhodes@miller.com,989.608.3863,South
+EMP000002,Abigail Shaffer,HR,Senior Engineer,EMP000001,2025-03-10,89636,8963.6,2.59,6,joshua35@davis.com,(794)507-8161x849,East
+EMP000003,Amber Perez,Finance,Software Engineer,EMP000001,2024-01-21,44938,2246.9,4.92,4,wyattmichelle@ramirez-reid.com,(555)434-1928,South
+EMP000004,Devin Schaefer,HR,Software Engineer,EMP000002,2026-05-01,67220,3361.0,3.7,3,gabriellecameron@perez.com,(541)639-5376x7242,North
+EMP000005,Jessica Silva,Finance,Software Engineer,EMP000003,2024-09-02,50851,2542.55,4.25,4,wendytaylor@davis-williams.com,(626)291-6697,West
+EMP000006,Ashley Dyer,Finance,Senior Engineer,EMP000004,2023-11-11,95541,9554.1,3.16,8,daniel62@smith-bowen.com,728.914.8932x52880,South
+EMP000007,Timothy Koch,Sales,Software Engineer,EMP000005,2024-03-17,68940,3447.0,3.15,2,brianhumphrey@miller.com,001-682-827-8248x96383,West
+EMP000008,Marie Kim DDS,HR,Intern,EMP000002,2022-08-15,32651,0.0,4.21,1,jeffreymorgan@spencer.com,510.451.8347,South
+EMP000009,Sonya Johnston,Marketing,Manager,EMP000007,2023-08-29,163295,24494.25,4.66,8,maguirre@davis.com,(467)801-0651x33387,West
+EMP000010,Joel Baxter,Engineering,Senior Engineer,EMP000006,2022-03-27,118743,11874.3,4.79,8,jmorton@williams.com,432-867-7360,Central
+EMP000011,James House,Sales,Manager,EMP000009,2025-06-18,131176,19676.4,4.71,10,rodney87@lee.com,001-480-250-0978,South
+EMP000012,Angela Lopez,Operations,Manager,EMP000008,2022-03-04,122827,18424.05,4.21,11,richarddavid@sanchez.biz,+1-799-385-4353x46247,East
+EMP000013,Marc Hart,HR,Manager,EMP000005,2022-06-11,130380,19557.0,4.6,9,medinawilliam@mahoney.com,(442)678-4980x841,Central
+EMP000014,Brian Tran,Operations,Director,EMP000001,2023-11-29,292742,73185.5,2.89,15,cassandra53@walters.com,964-800-5242,East
+EMP000015,Ashley Landry,Sales,Manager,EMP000006,2022-11-11,176815,26522.25,2.56,9,davenportbrandi@jordan.com,(405)433-1586x923,Central
+EMP000016,Allison Doyle,Sales,Intern,EMP000010,2024-06-02,26562,0.0,4.76,1,vpham@adams.com,(707)633-7543x3036,South
+EMP000017,Tracy Ramirez,Operations,Senior Engineer,EMP000015,2025-12-04,80448,8044.8,3.89,5,ifrazier@crosby-wilson.com,(894)301-9655,Central
+EMP000018,Kenneth Scott,HR,Software Engineer,EMP000001,2025-04-20,52432,2621.6,3.65,2,meyerlindsay@ball.com,(415)595-1484x65648,North
+EMP000019,Todd Byrd,Operations,Senior Engineer,EMP000012,2023-01-27,112484,11248.4,4.69,7,richard04@clark-floyd.org,+1-757-377-3872x1489,Central
+EMP000020,Nicole Chambers,Operations,Software Engineer,EMP000015,2023-07-03,45682,2284.1,4.48,2,dylanwilliams@carr-mack.info,(993)267-6320x16328,South
+EMP000021,Sylvia Martinez,Finance,Software Engineer,EMP000012,2022-09-23,49517,2475.85,4.06,4,jcontreras@stewart.net,(387)627-7434x87347,South
+EMP000022,George Orozco,Sales,Senior Engineer,EMP000018,2022-04-12,112431,11243.1,4.61,7,edwardreyes@mccarthy.biz,(258)776-0366x90967,West
+EMP000023,James Snow,Engineering,Intern,EMP000006,2025-02-26,32872,0.0,4.98,1,tracynelson@johnson-rogers.biz,001-427-929-8069x9016,East
+EMP000024,David Murphy,Sales,Director,EMP000016,2025-06-17,244769,61192.25,3.4,14,matthew64@king-miller.com,001-580-453-1003x3092,Central
+EMP000025,Brian Gould,Engineering,Software Engineer,EMP000022,2025-07-19,61987,3099.35,3.55,1,katie29@stuart.com,619-304-9663x1931,East
+EMP000026,Kylie Williams,HR,Senior Engineer,EMP000009,2026-02-15,91327,9132.7,3.32,7,estanley@holland.info,965-972-6284,East
+EMP000027,Nicholas Adams,Engineering,Manager,EMP000019,2023-09-06,179186,26877.9,2.71,10,ramirezshannon@hudson-barnett.com,6756273545,Central
+EMP000028,Kellie Lee,Engineering,Software Engineer,EMP000003,2023-08-24,68458,3422.9,4.02,1,wfreeman@vaughn.info,701.843.6349x578,East
+EMP000029,Krista Bell MD,Engineering,Senior Engineer,EMP000010,2024-03-14,92174,9217.4,3.84,6,jerry35@newton.com,537.649.8941,South
+EMP000030,Christopher Smith,Marketing,Software Engineer,EMP000006,2026-02-19,48230,2411.5,4.89,2,joshuamccann@carter.info,209-647-7752,South
+EMP000031,Karen Short,Finance,Software Engineer,EMP000006,2024-12-31,59272,2963.6,4.31,3,ojones@brown.com,831-986-9993,West
+EMP000032,Elizabeth Chapman,Engineering,Senior Engineer,EMP000017,2025-03-29,91250,9125.0,3.89,5,ashley09@garcia.com,+1-212-532-8120x67974,South
+EMP000033,Douglas Heath,Engineering,Software Engineer,EMP000005,2022-03-14,54534,2726.7,2.71,3,sandrafrench@lawrence.com,+1-632-942-1024,North
+EMP000034,Michael Lyons,Sales,Senior Engineer,EMP000002,2023-11-28,111573,11157.3,4.88,8,mkim@preston.com,+1-940-913-9904x902,West
+EMP000035,Catherine Richards,HR,Senior Engineer,EMP000009,2025-10-10,117699,11769.9,3.23,8,harrisonricky@santiago-hodge.com,(274)968-0715x45168,North
+EMP000036,Cody Cox,Sales,Manager,EMP000022,2025-10-31,161243,24186.45,4.33,12,nwolf@dunn-pennington.info,001-371-509-3248x086,East
+EMP000037,Susan Murray MD,Operations,Manager,EMP000020,2022-11-26,160223,24033.45,4.57,10,scantu@thornton.info,378.626.3982,South
+EMP000038,Sarah Morgan,Marketing,Senior Engineer,EMP000034,2025-11-29,105773,10577.3,4.8,8,lori44@carpenter.info,+1-575-558-8675,South
+EMP000039,Cynthia Rowe,Finance,Senior Engineer,EMP000015,2021-12-18,104066,10406.6,4.53,7,julie66@sparks.com,(289)451-7187,South
+EMP000040,Matthew Moore,Marketing,Software Engineer,EMP000009,2025-08-02,61020,3051.0,4.66,1,matthew61@phelps-villarreal.biz,478-609-1343x16117,East
+EMP000041,Amber Flynn,Engineering,Software Engineer,EMP000035,2024-02-02,63090,3154.5,3.52,1,nicholas23@jenkins.com,996-693-7923,Central
+EMP000042,Michael Nolan,Marketing,Senior Engineer,EMP000018,2025-07-20,117671,11767.1,2.67,5,erica21@landry-huerta.com,+1-664-674-3671x3695,North
+EMP000043,Ronald Foster,HR,Senior Engineer,EMP000035,2021-08-30,99560,9956.0,4.55,8,lozanojulie@parsons-hall.com,239.742.1047,South
+EMP000044,Ann Phillips,Marketing,Software Engineer,EMP000009,2025-02-15,47149,2357.45,4.58,4,jamesbuchanan@schmidt-mcintyre.com,374-851-7123x685,East
+EMP000045,Joshua Gibson,HR,Senior Engineer,EMP000043,2023-10-28,99303,9930.3,4.14,8,xcarson@leonard.com,+1-285-693-1746x120,Central
+EMP000046,Audrey Young DDS,Sales,Senior Engineer,EMP000022,2024-11-24,108409,10840.9,4.54,6,vwatson@bautista.com,(717)796-4053x77351,North
+EMP000047,Donald Donaldson,Finance,Senior Engineer,EMP000023,2025-06-17,113234,11323.4,4.78,5,batesdarlene@maddox.com,001-431-283-9335,North
+EMP000048,William Huerta,Engineering,Software Engineer,EMP000028,2026-03-10,42909,2145.45,2.93,1,lauren10@smith.org,302-940-2681x17758,East
+EMP000049,Theresa Williams,Finance,Software Engineer,EMP000046,2026-01-11,68255,3412.75,3.82,1,stephen00@boone-simmons.com,771.815.9212x4998,East
+EMP000050,Kerry Chavez DDS,Marketing,Manager,EMP000020,2022-06-09,137502,20625.3,4.35,9,farrelldebra@le.com,(357)366-1565x45271,South
+EMP000051,Brent Rodgers,HR,Senior Engineer,EMP000024,2022-09-13,83754,8375.4,2.81,8,willisanna@santiago-jenkins.biz,001-304-794-5198x3273,Central
+EMP000052,Holly Farmer,Engineering,Software Engineer,EMP000034,2026-06-23,43637,2181.85,4.65,4,lindsaybruce@austin.com,8243455022,North
+EMP000053,Mark Johnson,Engineering,Intern,EMP000015,2026-02-08,32926,0.0,3.88,0,nicholaschavez@wood.com,001-999-810-2290x14767,West
+EMP000054,Paul Wilson,Operations,Senior Engineer,EMP000015,2025-04-01,88995,8899.5,3.42,8,campbellerika@rose-parker.com,(990)803-4324x4510,North
+EMP000055,James Padilla,Marketing,Software Engineer,EMP000040,2025-11-06,40497,2024.85,4.33,1,charles06@stevens.com,001-769-466-4160,Central
+EMP000056,Lisa Collier,HR,Senior Engineer,EMP000053,2024-09-02,88124,8812.4,3.74,7,kimdaniel@chapman-warren.biz,453-552-1818x8355,West
+EMP000057,David Thompson,Sales,Senior Engineer,EMP000003,2022-11-22,80827,8082.7,3.14,6,thompsonkendra@marshall-elliott.org,299.755.2717x744,South
+EMP000058,Emily Hayes,Finance,Software Engineer,EMP000027,2022-01-28,56128,2806.4,3.19,1,marie11@wheeler.com,393.459.7820x715,North
+EMP000059,Michael Ritter,Finance,Software Engineer,EMP000049,2026-01-19,57797,2889.85,2.58,3,michaelhardin@ortiz-morgan.org,4517518644,West
+EMP000060,Matthew Rangel,Marketing,Software Engineer,EMP000033,2024-03-25,50892,2544.6,3.09,3,tanderson@collins.com,(481)568-5054,North
+EMP000061,Ralph Lee,HR,Manager,EMP000018,2022-10-06,153119,22967.85,2.86,12,chrisrichard@romero.net,4599296222,South
+EMP000062,Jackson Ball,Marketing,Intern,EMP000037,2025-05-16,32097,0.0,3.69,0,karen73@allen.com,(497)674-6886x239,Central
+EMP000063,John Watson,Engineering,Senior Engineer,EMP000020,2022-06-19,100426,10042.6,4.66,7,mitchellkathryn@cole-palmer.biz,737-550-6068,Central
+EMP000064,Brad Walker,Marketing,Senior Engineer,EMP000017,2024-04-21,114892,11489.2,4.14,6,combsdebra@taylor.info,001-827-379-0104x328,Central
+EMP000065,Cynthia Martinez,Finance,Intern,EMP000007,2023-08-15,25041,0.0,2.98,1,nfowler@brown-copeland.info,+1-580-889-3246x095,North
+EMP000066,Michael Mills,Engineering,Director,EMP000018,2024-08-29,210578,52644.5,3.82,14,ashleyamy@spencer.biz,(740)751-5319x520,Central
+EMP000067,Carrie Maxwell,Finance,Software Engineer,EMP000050,2025-07-18,56844,2842.2,3.81,2,zwelch@brown.com,530-630-5486x8740,South
+EMP000068,Richard Glenn,Engineering,Software Engineer,EMP000039,2024-06-01,46463,2323.15,2.87,3,david56@paul-kline.biz,627-775-8416x16928,West
+EMP000069,Garrett Phillips,Marketing,Manager,EMP000058,2025-05-21,129737,19460.55,4.08,10,cjackson@west-acosta.com,+1-964-201-6582x029,West
+EMP000070,David Brewer,Marketing,Senior Engineer,EMP000034,2024-09-03,102606,10260.6,2.85,5,cherring@hernandez.info,001-819-328-5654x31027,East
+EMP000071,David Griffin,HR,Senior Engineer,EMP000031,2024-01-09,88514,8851.4,4.88,8,igonzalez@hayes.info,455-718-8442,West
+EMP000072,Barbara Harris,Finance,Software Engineer,EMP000015,2022-10-10,55309,2765.45,3.9,2,kristyjohnson@armstrong.com,+1-711-346-7866x912,South
+EMP000073,Michael Cooper,HR,Software Engineer,EMP000051,2026-04-13,65366,3268.3,4.07,3,katrinaanderson@bartlett.com,422-653-5841x4384,West
+EMP000074,Anna Davidson,Operations,Senior Engineer,EMP000039,2026-07-14,110375,11037.5,3.11,7,georgeweber@morgan.com,909-643-9690,East
+EMP000075,Elizabeth Sanchez,HR,Senior Engineer,EMP000037,2025-01-17,90976,9097.6,3.42,5,shawn02@perry-marshall.com,+1-525-955-6258x815,North
+EMP000076,Jerry Thomas,Operations,Intern,EMP000055,2022-01-09,32980,0.0,3.27,0,sonia96@estes.com,001-953-227-8774,East
+EMP000077,James Bryant,HR,Software Engineer,EMP000042,2023-08-22,69222,3461.1,3.61,2,brandywilliams@simpson-khan.info,580-716-2456x5060,West
+EMP000078,Angel Gordon,HR,Software Engineer,EMP000059,2026-04-09,41906,2095.3,3.83,2,marcia99@anderson.biz,(258)452-3986x800,West
+EMP000079,Regina Stone,Marketing,Software Engineer,EMP000040,2022-11-10,47211,2360.55,2.91,2,markaustin@long.com,001-258-788-7947,South
+EMP000080,Brian Butler,Engineering,Manager,EMP000058,2024-03-17,125255,18788.25,2.76,12,carlsonjoseph@patton.com,001-372-589-6230,South
+EMP000081,Erik Hernandez,Operations,Software Engineer,EMP000026,2023-04-30,55476,2773.8,2.71,3,nshaw@salas-fitzgerald.com,001-728-738-5786x527,West
+EMP000082,Sharon Becker,Engineering,Senior Engineer,EMP000002,2023-11-04,90926,9092.6,4.51,7,plee@grant-walker.com,001-843-775-7584x41986,South
+EMP000083,Regina Roberts,Finance,Senior Engineer,EMP000053,2024-01-15,99393,9939.3,3.55,6,reedscott@burgess-lewis.net,584-221-9933x083,Central
+EMP000084,Gary Kennedy,Marketing,Manager,EMP000033,2022-10-06,156539,23480.85,3.76,11,oconnelltiffany@russell.info,+1-434-254-0193x8026,East
+EMP000085,Jennifer Simpson DVM,Finance,Director,EMP000022,2024-01-21,260639,65159.75,2.71,13,smithashley@hebert.com,988.672.8743x152,North
+EMP000086,Alexis Rogers,Operations,Senior Engineer,EMP000080,2024-02-07,107926,10792.6,2.53,7,gregorychase@wilcox-robertson.com,(712)627-5304x6374,Central
+EMP000087,Laura Green,Sales,Intern,EMP000028,2024-08-26,33433,0.0,4.8,1,bryanwilson@moore-parks.com,001-714-859-3327x279,West
+EMP000088,Susan Todd,Marketing,Software Engineer,EMP000085,2023-06-14,69738,3486.9,3.31,4,erinlarson@fox.com,491-408-8398,West
+EMP000089,Joseph Wilson,Sales,Intern,EMP000044,2023-05-05,33550,0.0,4.3,1,gdavis@stokes-chavez.net,(279)808-7406x40391,West
+EMP000090,Arthur Mcknight,Marketing,Intern,EMP000008,2022-03-07,27695,0.0,4.35,1,ajohnson@mack.biz,(867)466-1825x128,East
+EMP000091,Courtney Smith,Operations,Manager,EMP000021,2021-10-14,147653,22147.95,4.44,12,steven86@gray.com,231-906-9033x119,West
+EMP000092,Michele Williams,Marketing,Software Engineer,EMP000047,2021-12-20,60602,3030.1,4.11,3,igonzales@webster.com,643.695.9953x42836,West
+EMP000093,Travis Hobbs,Engineering,Manager,EMP000032,2023-01-31,167694,25154.1,3.53,12,dpeters@david-powers.net,266-824-6287x33427,Central
+EMP000094,Kristin Anderson,Operations,Senior Engineer,EMP000004,2023-08-29,109890,10989.0,2.82,7,james17@davis-hardy.com,5469990139,West
+EMP000095,Terry Turner,Marketing,Intern,EMP000078,2021-09-21,27933,0.0,3.94,1,sharonhayden@burgess.com,001-693-663-8546x785,Central
+EMP000096,Stephen Owens,HR,Software Engineer,EMP000038,2025-08-02,67327,3366.35,3.97,2,robin55@williams-shields.com,7485996423,Central
+EMP000097,Roy Porter,Sales,Software Engineer,EMP000011,2024-06-18,54633,2731.65,3.67,1,kathryn77@jackson-norton.com,(287)228-0801,East
+EMP000098,Ryan Hall,Sales,Software Engineer,EMP000029,2022-11-17,66994,3349.7,3.36,4,robinsonstephen@williamson.org,270.808.8600x8484,South
+EMP000099,Susan Rodriguez,Operations,Senior Engineer,EMP000079,2022-05-31,87479,8747.9,3.1,8,johnharvey@ochoa-adams.biz,256-379-3341,East
+EMP000100,James Alvarez,Operations,Senior Engineer,EMP000073,2021-09-03,94974,9497.4,2.59,5,christopherbruce@mueller.com,703.239.7401x48902,Central

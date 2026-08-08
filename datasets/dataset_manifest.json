@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-08-05T07:10:05.005616+00:00",
+  "seed": 42,
+  "row_counts": {
+    "customers": 8000,
+    "products": 900,
+    "suppliers": 160,
+    "employees": 420,
+    "marketing_campaigns": 2400,
+    "orders": 120000,
+    "inventory_snapshots": 129600,
+    "finance_monthly": 44,
+    "operations_daily": 5248,
+    "customer_kpis": 8000
+  },
+  "minimum_dataset_size": 274772,
+  "config": {
+    "seed": 42,
+    "num_customers": 8000,
+    "num_products": 900,
+    "num_suppliers": 160,
+    "num_employees": 420,
+    "num_marketing_campaigns": 2400,
+    "num_orders": 120000,
+    "num_inventory_snapshots_per_product": 36,
+    "num_warehouses": 4,
+    "start_date": "2023-01-01",
+    "end_date": "2026-08-04",
+    "output_subdirectories": [
+      "datasets"
+    ]
+  }
+}

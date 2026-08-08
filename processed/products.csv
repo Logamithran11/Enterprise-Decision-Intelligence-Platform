@@ -1,0 +1,901 @@
+product_id,product_name,category,subcategory,supplier_id,unit_cost,list_price,margin_rate,demand_score,lifecycle_stage,is_active
+PRD-00001,Product 0001,Automation,Scheduling,SUP-00044,1348.65,2177.4,0.615,46.75,Intro,1
+PRD-00002,Product 0002,Security,Compliance,SUP-00030,12216.8,16779.41,0.373,67.11,Decline,1
+PRD-00003,Product 0003,Security,Compliance,SUP-00128,7599.24,10856.86,0.429,75.28,Growth,1
+PRD-00004,Product 0004,Automation,Integration,SUP-00043,6920.72,9437.51,0.364,45.71,Decline,1
+PRD-00005,Product 0005,Operations,Procurement,SUP-00042,8503.06,10434.33,0.227,66.27,Mature,1
+PRD-00006,Product 0006,Automation,Workflow,SUP-00094,16831.71,25851.96,0.536,17.48,Mature,1
+PRD-00007,Product 0007,Automation,Integration,SUP-00100,17611.03,26468.64,0.503,36.63,Mature,1
+PRD-00008,Product 0008,Finance,Revenue Ops,SUP-00080,17567.73,24164.91,0.376,83.55,Mature,0
+PRD-00009,Product 0009,Security,Risk Scoring,SUP-00020,11655.36,14731.5,0.264,47.01,Growth,1
+PRD-00010,Product 0010,Security,Threat Detection,SUP-00067,14562.17,21866.69,0.502,53.07,Mature,1
+PRD-00011,Product 0011,Security,Risk Scoring,SUP-00068,3062.28,4057.23,0.325,48.1,Mature,1
+PRD-00012,Product 0012,Analytics,Reporting,SUP-00084,9555.36,13325.25,0.395,32.54,Growth,1
+PRD-00013,Product 0013,Analytics,Dashboards,SUP-00146,5658.37,7313.05,0.292,44.42,Mature,1
+PRD-00014,Product 0014,Security,Threat Detection,SUP-00058,3147.36,4297.94,0.366,61.9,Mature,1
+PRD-00015,Product 0015,Analytics,Reporting,SUP-00004,12692.82,20068.85,0.581,55.45,Growth,1
+PRD-00016,Product 0016,Automation,Scheduling,SUP-00017,237.82,311.88,0.311,80.25,Decline,1
+PRD-00017,Product 0017,Analytics,Dashboards,SUP-00025,15588.29,21053.34,0.351,51.48,Growth,0
+PRD-00018,Product 0018,Operations,Procurement,SUP-00139,17859.19,25062.7,0.403,61.8,Mature,0
+PRD-00019,Product 0019,Finance,Revenue Ops,SUP-00103,5818.39,7593.27,0.305,52.75,Decline,1
+PRD-00020,Product 0020,Analytics,Dashboards,SUP-00048,2450.93,3936.8,0.606,77.88,Decline,1
+PRD-00021,Product 0021,Finance,Budgeting,SUP-00128,14239.19,17458.04,0.226,37.64,Mature,1
+PRD-00022,Product 0022,Security,Compliance,SUP-00157,14429.4,17806.23,0.234,70.12,Decline,1
+PRD-00023,Product 0023,Analytics,Forecasting,SUP-00070,14088.78,20521.18,0.457,68.88,Mature,1
+PRD-00024,Product 0024,Automation,RPA,SUP-00126,12723.75,18423.81,0.448,48.04,Growth,1
+PRD-00025,Product 0025,Automation,Integration,SUP-00122,14220.37,18560.7,0.305,60.31,Mature,1
+PRD-00026,Product 0026,Automation,Integration,SUP-00043,15542.67,18860.72,0.213,68.58,Intro,1
+PRD-00027,Product 0027,Automation,Scheduling,SUP-00156,691.71,856.26,0.238,50.24,Mature,1
+PRD-00028,Product 0028,Finance,Expense Control,SUP-00151,17849.07,22807.07,0.278,49.88,Growth,1
+PRD-00029,Product 0029,Security,Compliance,SUP-00112,13783.13,18689.83,0.356,41.09,Growth,0
+PRD-00030,Product 0030,Analytics,Reporting,SUP-00156,9843.8,14041.45,0.426,96.38,Growth,1
+PRD-00031,Product 0031,Automation,RPA,SUP-00071,7230.89,10503.76,0.453,54.06,Growth,1
+PRD-00032,Product 0032,Automation,RPA,SUP-00113,17786.99,26432.23,0.486,41.16,Mature,1
+PRD-00033,Product 0033,Finance,Planning,SUP-00101,1739.39,2089.73,0.201,31.94,Growth,1
+PRD-00034,Product 0034,Finance,Expense Control,SUP-00096,13844.07,19666.52,0.421,48.35,Decline,1
+PRD-00035,Product 0035,Analytics,Dashboards,SUP-00050,2507.04,3007.04,0.199,66.54,Intro,1
+PRD-00036,Product 0036,Operations,Logistics,SUP-00057,10098.44,14811.01,0.467,57.66,Growth,1
+PRD-00037,Product 0037,Security,IAM,SUP-00016,8423.27,11120.66,0.32,67.96,Growth,1
+PRD-00038,Product 0038,Automation,RPA,SUP-00080,2002.55,2898.51,0.447,74.16,Mature,1
+PRD-00039,Product 0039,Automation,Workflow,SUP-00024,3274.48,4551.13,0.39,59.43,Intro,1
+PRD-00040,Product 0040,Operations,Procurement,SUP-00081,6554.83,10086.42,0.539,59.83,Decline,1
+PRD-00041,Product 0041,Security,Risk Scoring,SUP-00071,5901.09,7217.15,0.223,88.62,Growth,1
+PRD-00042,Product 0042,Analytics,Forecasting,SUP-00022,4285.28,6063.82,0.415,74.52,Growth,1
+PRD-00043,Product 0043,Automation,RPA,SUP-00046,8794.96,11584.53,0.317,68.54,Mature,1
+PRD-00044,Product 0044,Analytics,Dashboards,SUP-00142,10739.27,12731.91,0.186,56.17,Intro,1
+PRD-00045,Product 0045,Analytics,Dashboards,SUP-00008,12898.71,18274.53,0.417,73.48,Mature,1
+PRD-00046,Product 0046,Analytics,Reporting,SUP-00034,5866.85,8941.89,0.524,67.99,Growth,1
+PRD-00047,Product 0047,Finance,Budgeting,SUP-00061,11711.63,16982.83,0.45,67.35,Mature,1
+PRD-00048,Product 0048,Automation,Workflow,SUP-00118,10975.31,13177.69,0.201,74.19,Growth,1
+PRD-00049,Product 0049,Security,Threat Detection,SUP-00137,12685.19,18583.64,0.465,67.54,Mature,1
+PRD-00050,Product 0050,Finance,Budgeting,SUP-00124,17215.21,25744.09,0.495,36.17,Growth,1
+PRD-00051,Product 0051,Operations,Inventory Control,SUP-00014,16223.93,19658.82,0.212,62.93,Decline,1
+PRD-00052,Product 0052,Finance,Planning,SUP-00060,15086.21,20362.14,0.35,43.04,Growth,1
+PRD-00053,Product 0053,Security,Compliance,SUP-00145,12814.87,16804.94,0.311,72.77,Mature,1
+PRD-00054,Product 0054,Analytics,Forecasting,SUP-00118,5118.59,7728.1,0.51,35.34,Mature,1
+PRD-00055,Product 0055,Analytics,Data Modeling,SUP-00026,2706.75,3632.52,0.342,61.47,Intro,1
+PRD-00056,Product 0056,Finance,Expense Control,SUP-00065,12531.06,15933.23,0.271,62.98,Mature,1
+PRD-00057,Product 0057,Finance,Expense Control,SUP-00074,10635.44,15034.88,0.414,42.5,Growth,1
+PRD-00058,Product 0058,Operations,Maintenance,SUP-00035,10239.03,15503.64,0.514,60.62,Growth,1
+PRD-00059,Product 0059,Automation,Scheduling,SUP-00143,12760.59,17260.97,0.353,75.05,Mature,1
+PRD-00060,Product 0060,Analytics,Forecasting,SUP-00119,11343.66,17860.17,0.574,52.54,Mature,1
+PRD-00061,Product 0061,Operations,Inventory Control,SUP-00013,4207.88,6170.24,0.466,66.92,Growth,1
+PRD-00062,Product 0062,Automation,Integration,SUP-00037,16447.56,20248.9,0.231,70.63,Mature,1
+PRD-00063,Product 0063,Finance,Expense Control,SUP-00094,15862.04,25531.05,0.61,43.85,Growth,1
+PRD-00064,Product 0064,Operations,Logistics,SUP-00116,2333.78,3496.81,0.498,62.7,Decline,1
+PRD-00065,Product 0065,Security,Compliance,SUP-00121,10754.32,13806.88,0.284,58.42,Mature,1
+PRD-00066,Product 0066,Finance,Planning,SUP-00151,16382.78,21563.86,0.316,61.75,Growth,1
+PRD-00067,Product 0067,Security,Compliance,SUP-00093,12039.34,16706.5,0.388,34.73,Mature,1
+PRD-00068,Product 0068,Operations,Logistics,SUP-00031,9455.0,11247.01,0.19,38.07,Growth,0
+PRD-00069,Product 0069,Automation,RPA,SUP-00007,16442.62,25876.86,0.574,82.74,Mature,1
+PRD-00070,Product 0070,Finance,Planning,SUP-00011,13896.04,16889.02,0.215,74.86,Growth,1
+PRD-00071,Product 0071,Analytics,Reporting,SUP-00088,11857.98,14885.72,0.255,65.74,Growth,1
+PRD-00072,Product 0072,Automation,Integration,SUP-00102,7825.19,11079.35,0.416,77.33,Growth,1
+PRD-00073,Product 0073,Analytics,Reporting,SUP-00024,13986.98,21409.27,0.531,39.46,Intro,1
+PRD-00074,Product 0074,Finance,Expense Control,SUP-00064,15685.2,24985.13,0.593,58.14,Growth,1
+PRD-00075,Product 0075,Operations,Procurement,SUP-00065,3020.84,3718.01,0.231,56.54,Mature,1
+PRD-00076,Product 0076,Automation,RPA,SUP-00055,12566.21,14913.81,0.187,48.91,Mature,1
+PRD-00077,Product 0077,Finance,Expense Control,SUP-00036,12587.54,18725.5,0.488,42.73,Growth,1
+PRD-00078,Product 0078,Operations,Inventory Control,SUP-00049,2704.54,3513.14,0.299,84.37,Growth,1
+PRD-00079,Product 0079,Operations,Procurement,SUP-00122,15273.41,18911.24,0.238,51.3,Growth,1
+PRD-00080,Product 0080,Security,Threat Detection,SUP-00110,15589.58,18425.04,0.182,69.66,Mature,0
+PRD-00081,Product 0081,Automation,Scheduling,SUP-00130,2498.88,4008.62,0.604,67.65,Mature,1
+PRD-00082,Product 0082,Finance,Expense Control,SUP-00143,13195.23,19830.85,0.503,79.77,Mature,1
+PRD-00083,Product 0083,Analytics,Forecasting,SUP-00034,4295.88,5718.05,0.331,74.48,Intro,1
+PRD-00084,Product 0084,Automation,RPA,SUP-00060,4218.56,6087.6,0.443,56.77,Mature,1
+PRD-00085,Product 0085,Automation,RPA,SUP-00103,2339.06,3676.36,0.572,40.49,Growth,1
+PRD-00086,Product 0086,Operations,Procurement,SUP-00089,12393.14,19596.18,0.581,77.17,Decline,0
+PRD-00087,Product 0087,Finance,Revenue Ops,SUP-00130,16343.5,23130.9,0.415,82.77,Mature,1
+PRD-00088,Product 0088,Finance,Expense Control,SUP-00150,10369.97,16519.47,0.593,99.0,Growth,1
+PRD-00089,Product 0089,Automation,RPA,SUP-00070,4707.0,7123.68,0.513,78.63,Mature,0
+PRD-00090,Product 0090,Security,Compliance,SUP-00103,3467.12,4925.69,0.421,51.14,Decline,1
+PRD-00091,Product 0091,Security,IAM,SUP-00147,3075.33,4144.77,0.348,53.35,Growth,1
+PRD-00092,Product 0092,Finance,Planning,SUP-00086,3748.6,5968.32,0.592,26.7,Growth,1
+PRD-00093,Product 0093,Finance,Revenue Ops,SUP-00035,9994.11,12649.23,0.266,48.2,Growth,1
+PRD-00094,Product 0094,Automation,RPA,SUP-00129,17909.87,25422.42,0.419,40.43,Growth,1
+PRD-00095,Product 0095,Finance,Planning,SUP-00021,16829.89,20842.87,0.238,72.0,Growth,1
+PRD-00096,Product 0096,Finance,Planning,SUP-00111,1758.49,2178.35,0.239,78.28,Growth,1
+PRD-00097,Product 0097,Automation,Workflow,SUP-00025,3691.34,4453.11,0.206,99.0,Growth,1
+PRD-00098,Product 0098,Operations,Procurement,SUP-00043,12289.0,16177.69,0.316,99.0,Mature,1
+PRD-00099,Product 0099,Finance,Budgeting,SUP-00147,12437.65,19049.33,0.532,66.23,Decline,1
+PRD-00100,Product 0100,Automation,Integration,SUP-00035,3843.35,4846.55,0.261,52.09,Growth,0
+PRD-00101,Product 0101,Automation,Integration,SUP-00100,17218.21,26624.15,0.546,55.35,Mature,1
+PRD-00102,Product 0102,Finance,Planning,SUP-00080,10596.17,17136.33,0.617,50.23,Growth,0
+PRD-00103,Product 0103,Finance,Budgeting,SUP-00019,9555.9,13485.15,0.411,99.0,Intro,1
+PRD-00104,Product 0104,Finance,Revenue Ops,SUP-00098,14824.16,22630.07,0.527,14.91,Mature,1
+PRD-00105,Product 0105,Automation,Integration,SUP-00063,6801.62,10025.05,0.474,89.54,Growth,1
+PRD-00106,Product 0106,Automation,RPA,SUP-00154,12882.12,17805.79,0.382,46.13,Growth,1
+PRD-00107,Product 0107,Analytics,Forecasting,SUP-00050,16536.27,21585.43,0.305,55.35,Growth,1
+PRD-00108,Product 0108,Operations,Maintenance,SUP-00096,17089.83,25214.76,0.475,18.14,Mature,1
+PRD-00109,Product 0109,Finance,Revenue Ops,SUP-00141,788.06,1009.89,0.281,79.93,Growth,1
+PRD-00110,Product 0110,Finance,Expense Control,SUP-00076,1380.3,1852.61,0.342,75.48,Growth,1
+PRD-00111,Product 0111,Security,Risk Scoring,SUP-00057,12771.24,15938.92,0.248,43.41,Intro,1
+PRD-00112,Product 0112,Analytics,Reporting,SUP-00063,154.65,221.8,0.434,80.83,Mature,1
+PRD-00113,Product 0113,Finance,Budgeting,SUP-00014,11963.61,14983.82,0.252,77.55,Decline,1
+PRD-00114,Product 0114,Finance,Revenue Ops,SUP-00121,14814.04,22708.66,0.533,52.99,Growth,1
+PRD-00115,Product 0115,Automation,Integration,SUP-00002,1686.82,2343.47,0.389,27.11,Mature,1
+PRD-00116,Product 0116,Operations,Logistics,SUP-00126,495.33,740.02,0.494,58.28,Mature,1
+PRD-00117,Product 0117,Automation,Scheduling,SUP-00092,9190.15,12680.91,0.38,79.71,Growth,0
+PRD-00118,Product 0118,Finance,Planning,SUP-00002,17772.72,27028.14,0.521,46.45,Mature,1
+PRD-00119,Product 0119,Security,IAM,SUP-00025,9664.44,15167.88,0.569,80.38,Intro,1
+PRD-00120,Product 0120,Finance,Budgeting,SUP-00015,17555.38,24332.61,0.386,47.37,Intro,1
+PRD-00121,Product 0121,Operations,Logistics,SUP-00159,12652.55,16986.28,0.343,60.46,Intro,1
+PRD-00122,Product 0122,Operations,Maintenance,SUP-00013,5496.31,8225.08,0.496,49.48,Decline,1
+PRD-00123,Product 0123,Analytics,Data Modeling,SUP-00146,4406.11,7071.11,0.605,64.66,Intro,1
+PRD-00124,Product 0124,Security,Risk Scoring,SUP-00004,10934.52,13750.22,0.258,75.96,Mature,0
+PRD-00125,Product 0125,Operations,Logistics,SUP-00084,6035.89,9104.78,0.508,89.72,Intro,1
+PRD-00126,Product 0126,Security,Risk Scoring,SUP-00091,4353.88,5144.33,0.182,65.54,Growth,1
+PRD-00127,Product 0127,Automation,RPA,SUP-00112,7145.73,11516.97,0.612,35.5,Mature,1
+PRD-00128,Product 0128,Security,Compliance,SUP-00073,9623.92,14730.59,0.531,72.75,Mature,1
+PRD-00129,Product 0129,Automation,Workflow,SUP-00032,16627.74,26542.83,0.596,56.94,Growth,1
+PRD-00130,Product 0130,Finance,Planning,SUP-00044,17205.4,21112.59,0.227,56.57,Mature,1
+PRD-00131,Product 0131,Analytics,Forecasting,SUP-00004,13166.55,15832.74,0.202,63.8,Decline,1
+PRD-00132,Product 0132,Automation,RPA,SUP-00134,4408.91,6049.96,0.372,71.51,Decline,1
+PRD-00133,Product 0133,Analytics,Reporting,SUP-00005,8334.34,10052.12,0.206,54.97,Decline,1
+PRD-00134,Product 0134,Automation,Integration,SUP-00099,1833.69,2207.56,0.204,71.88,Decline,1
+PRD-00135,Product 0135,Automation,Scheduling,SUP-00091,10300.05,12569.7,0.22,68.88,Growth,1
+PRD-00136,Product 0136,Finance,Expense Control,SUP-00048,11558.83,13952.29,0.207,71.89,Growth,1
+PRD-00137,Product 0137,Operations,Inventory Control,SUP-00028,7200.87,8806.19,0.223,76.96,Growth,1
+PRD-00138,Product 0138,Analytics,Forecasting,SUP-00095,3995.22,5358.79,0.341,24.49,Growth,1
+PRD-00139,Product 0139,Security,Threat Detection,SUP-00115,17771.23,24891.71,0.401,55.32,Decline,1
+PRD-00140,Product 0140,Analytics,Reporting,SUP-00076,785.27,962.46,0.226,59.4,Growth,1
+PRD-00141,Product 0141,Analytics,Data Modeling,SUP-00113,13186.46,19277.18,0.462,57.77,Growth,1
+PRD-00142,Product 0142,Security,Compliance,SUP-00099,12398.63,17947.7,0.448,47.28,Decline,1
+PRD-00143,Product 0143,Security,Risk Scoring,SUP-00154,10126.01,13264.92,0.31,50.91,Growth,1
+PRD-00144,Product 0144,Analytics,Dashboards,SUP-00045,3428.57,4503.64,0.314,70.86,Growth,1
+PRD-00145,Product 0145,Finance,Planning,SUP-00124,15385.4,24821.11,0.613,69.83,Growth,1
+PRD-00146,Product 0146,Finance,Planning,SUP-00061,11015.96,14454.16,0.312,62.55,Mature,1
+PRD-00147,Product 0147,Finance,Expense Control,SUP-00091,12229.88,19305.31,0.579,44.93,Growth,1
+PRD-00148,Product 0148,Finance,Planning,SUP-00078,12782.76,16232.18,0.27,76.61,Growth,1
+PRD-00149,Product 0149,Security,Threat Detection,SUP-00056,2231.3,2809.21,0.259,75.39,Growth,1
+PRD-00150,Product 0150,Automation,Integration,SUP-00110,8433.77,13144.07,0.559,80.91,Mature,1
+PRD-00151,Product 0151,Security,IAM,SUP-00154,14225.57,20585.68,0.447,48.71,Mature,1
+PRD-00152,Product 0152,Analytics,Reporting,SUP-00070,7206.64,10931.74,0.517,99.0,Growth,1
+PRD-00153,Product 0153,Automation,Integration,SUP-00030,13185.58,18897.96,0.433,65.74,Mature,1
+PRD-00154,Product 0154,Automation,RPA,SUP-00072,6811.03,10952.81,0.608,49.12,Growth,0
+PRD-00155,Product 0155,Security,Compliance,SUP-00032,14479.39,17270.47,0.193,99.0,Intro,1
+PRD-00156,Product 0156,Finance,Planning,SUP-00083,15232.54,18980.99,0.246,74.71,Intro,1
+PRD-00157,Product 0157,Operations,Logistics,SUP-00101,15018.65,18455.92,0.229,65.45,Intro,1
+PRD-00158,Product 0158,Operations,Logistics,SUP-00076,11782.09,17383.01,0.475,67.5,Growth,1
+PRD-00159,Product 0159,Security,IAM,SUP-00158,9115.87,12015.82,0.318,83.8,Mature,1
+PRD-00160,Product 0160,Analytics,Forecasting,SUP-00040,15393.86,23492.96,0.526,66.29,Growth,1
+PRD-00161,Product 0161,Finance,Budgeting,SUP-00014,6874.03,8486.68,0.235,32.68,Mature,0
+PRD-00162,Product 0162,Analytics,Forecasting,SUP-00112,17324.08,22196.53,0.281,61.69,Mature,1
+PRD-00163,Product 0163,Operations,Maintenance,SUP-00159,14971.89,18100.12,0.209,77.29,Mature,1
+PRD-00164,Product 0164,Analytics,Dashboards,SUP-00009,4894.24,7914.13,0.617,61.19,Decline,1
+PRD-00165,Product 0165,Security,Threat Detection,SUP-00063,6810.86,10187.0,0.496,45.25,Growth,1
+PRD-00166,Product 0166,Analytics,Forecasting,SUP-00090,16134.73,19812.58,0.228,61.38,Mature,1
+PRD-00167,Product 0167,Finance,Expense Control,SUP-00103,4602.91,6741.68,0.465,76.69,Mature,1
+PRD-00168,Product 0168,Security,Compliance,SUP-00140,1547.26,2125.07,0.373,83.69,Growth,1
+PRD-00169,Product 0169,Finance,Budgeting,SUP-00110,1478.93,2341.32,0.583,43.14,Growth,1
+PRD-00170,Product 0170,Security,Threat Detection,SUP-00145,15606.88,19336.92,0.239,41.98,Mature,1
+PRD-00171,Product 0171,Automation,Scheduling,SUP-00090,6727.09,8020.47,0.192,61.0,Intro,1
+PRD-00172,Product 0172,Automation,Scheduling,SUP-00035,3860.38,4816.83,0.248,50.22,Mature,1
+PRD-00173,Product 0173,Operations,Procurement,SUP-00147,4864.1,7746.1,0.593,52.17,Mature,1
+PRD-00174,Product 0174,Operations,Maintenance,SUP-00061,10699.81,17000.01,0.589,57.43,Growth,1
+PRD-00175,Product 0175,Finance,Expense Control,SUP-00052,7582.64,9176.4,0.21,75.02,Growth,1
+PRD-00176,Product 0176,Analytics,Forecasting,SUP-00109,2629.77,3708.59,0.41,47.65,Mature,1
+PRD-00177,Product 0177,Security,IAM,SUP-00118,8890.72,13168.51,0.481,42.17,Decline,1
+PRD-00178,Product 0178,Automation,Workflow,SUP-00112,11791.26,13935.89,0.182,49.44,Growth,1
+PRD-00179,Product 0179,Finance,Budgeting,SUP-00087,7151.16,8489.97,0.187,36.28,Growth,1
+PRD-00180,Product 0180,Automation,Integration,SUP-00112,11131.83,13460.69,0.209,62.89,Growth,1
+PRD-00181,Product 0181,Analytics,Reporting,SUP-00123,12660.76,18863.17,0.49,63.85,Mature,1
+PRD-00182,Product 0182,Automation,Workflow,SUP-00034,11736.02,18702.8,0.594,79.17,Growth,1
+PRD-00183,Product 0183,Finance,Planning,SUP-00139,2627.93,3179.79,0.21,44.0,Growth,1
+PRD-00184,Product 0184,Security,Compliance,SUP-00088,7896.57,9817.92,0.243,64.09,Growth,1
+PRD-00185,Product 0185,Operations,Procurement,SUP-00063,16371.28,22684.24,0.386,67.69,Intro,1
+PRD-00186,Product 0186,Security,Compliance,SUP-00058,2918.9,4012.75,0.375,35.68,Growth,1
+PRD-00187,Product 0187,Analytics,Dashboards,SUP-00002,15759.41,20068.07,0.273,65.73,Intro,0
+PRD-00188,Product 0188,Finance,Revenue Ops,SUP-00076,8077.68,10243.75,0.268,66.36,Growth,1
+PRD-00189,Product 0189,Analytics,Reporting,SUP-00127,10888.22,13516.73,0.241,59.82,Growth,0
+PRD-00190,Product 0190,Automation,RPA,SUP-00150,5718.36,7378.08,0.29,40.22,Intro,1
+PRD-00191,Product 0191,Operations,Maintenance,SUP-00022,13108.15,20320.74,0.55,60.71,Decline,0
+PRD-00192,Product 0192,Finance,Revenue Ops,SUP-00114,3285.16,4537.81,0.381,28.74,Growth,0
+PRD-00193,Product 0193,Automation,RPA,SUP-00045,13747.52,21773.74,0.584,67.53,Mature,1
+PRD-00194,Product 0194,Finance,Planning,SUP-00017,2634.93,4085.07,0.55,74.61,Mature,1
+PRD-00195,Product 0195,Analytics,Reporting,SUP-00092,3164.13,4470.0,0.413,58.28,Mature,1
+PRD-00196,Product 0196,Security,Compliance,SUP-00006,228.63,352.7,0.543,83.75,Growth,1
+PRD-00197,Product 0197,Automation,Integration,SUP-00031,15547.69,19470.5,0.252,50.15,Decline,1
+PRD-00198,Product 0198,Finance,Revenue Ops,SUP-00041,15206.72,22231.44,0.462,49.62,Growth,1
+PRD-00199,Product 0199,Analytics,Dashboards,SUP-00137,7082.48,11287.91,0.594,57.26,Intro,1
+PRD-00200,Product 0200,Security,Compliance,SUP-00026,131.28,190.7,0.453,99.0,Growth,1
+PRD-00201,Product 0201,Analytics,Dashboards,SUP-00046,16800.32,23451.62,0.396,57.17,Growth,1
+PRD-00202,Product 0202,Analytics,Data Modeling,SUP-00156,3146.86,4621.09,0.468,98.44,Intro,1
+PRD-00203,Product 0203,Security,Threat Detection,SUP-00053,2747.17,3406.89,0.24,61.35,Mature,1
+PRD-00204,Product 0204,Automation,Workflow,SUP-00046,3860.38,5055.45,0.31,48.28,Mature,1
+PRD-00205,Product 0205,Security,IAM,SUP-00116,4686.35,6049.98,0.291,95.2,Decline,1
+PRD-00206,Product 0206,Automation,Scheduling,SUP-00008,16768.71,20659.9,0.232,65.14,Mature,1
+PRD-00207,Product 0207,Security,Compliance,SUP-00019,11332.77,16903.31,0.492,57.0,Intro,1
+PRD-00208,Product 0208,Automation,Integration,SUP-00061,6189.94,9031.37,0.459,76.64,Mature,0
+PRD-00209,Product 0209,Operations,Maintenance,SUP-00106,13768.03,21532.81,0.564,83.2,Intro,1
+PRD-00210,Product 0210,Finance,Budgeting,SUP-00003,13930.05,20715.93,0.487,52.12,Decline,1
+PRD-00211,Product 0211,Analytics,Dashboards,SUP-00005,4491.37,6904.16,0.537,77.33,Mature,1
+PRD-00212,Product 0212,Security,Risk Scoring,SUP-00007,3200.26,3972.3,0.241,58.15,Growth,1
+PRD-00213,Product 0213,Finance,Planning,SUP-00111,2809.73,3396.51,0.209,45.32,Mature,0
+PRD-00214,Product 0214,Finance,Revenue Ops,SUP-00116,6464.16,8681.6,0.343,49.97,Mature,1
+PRD-00215,Product 0215,Finance,Budgeting,SUP-00064,580.8,718.82,0.238,42.08,Decline,1
+PRD-00216,Product 0216,Analytics,Data Modeling,SUP-00020,7979.74,12111.46,0.518,63.48,Mature,1
+PRD-00217,Product 0217,Finance,Revenue Ops,SUP-00123,3680.62,5044.92,0.371,63.54,Mature,1
+PRD-00218,Product 0218,Analytics,Reporting,SUP-00115,13830.08,22030.62,0.593,81.42,Growth,1
+PRD-00219,Product 0219,Automation,RPA,SUP-00009,5986.07,7295.57,0.219,76.76,Growth,1
+PRD-00220,Product 0220,Security,Compliance,SUP-00118,11744.1,18747.17,0.596,55.13,Growth,1
+PRD-00221,Product 0221,Finance,Planning,SUP-00146,12306.89,18460.69,0.5,58.72,Mature,1
+PRD-00222,Product 0222,Security,Threat Detection,SUP-00107,14333.84,21982.51,0.534,50.97,Decline,1
+PRD-00223,Product 0223,Operations,Logistics,SUP-00056,8593.76,12003.08,0.397,63.87,Mature,1
+PRD-00224,Product 0224,Security,Compliance,SUP-00036,7242.73,9706.72,0.34,58.25,Decline,1
+PRD-00225,Product 0225,Security,IAM,SUP-00063,4685.26,7022.11,0.499,62.84,Mature,1
+PRD-00226,Product 0226,Analytics,Reporting,SUP-00055,247.53,398.72,0.611,86.86,Mature,1
+PRD-00227,Product 0227,Finance,Budgeting,SUP-00028,2897.54,3452.39,0.191,87.73,Intro,1
+PRD-00228,Product 0228,Analytics,Reporting,SUP-00152,4055.22,5850.64,0.443,51.38,Mature,1
+PRD-00229,Product 0229,Automation,Scheduling,SUP-00021,11875.16,15305.46,0.289,75.21,Intro,0
+PRD-00230,Product 0230,Finance,Expense Control,SUP-00046,14253.93,19328.85,0.356,73.11,Mature,1
+PRD-00231,Product 0231,Security,Compliance,SUP-00009,8299.07,11890.54,0.433,52.66,Mature,1
+PRD-00232,Product 0232,Automation,RPA,SUP-00094,14805.26,18883.12,0.275,86.0,Mature,1
+PRD-00233,Product 0233,Automation,RPA,SUP-00018,6775.71,8026.54,0.185,36.86,Decline,1
+PRD-00234,Product 0234,Analytics,Data Modeling,SUP-00121,11803.42,14285.51,0.21,80.28,Growth,1
+PRD-00235,Product 0235,Automation,Workflow,SUP-00089,10062.39,11987.49,0.191,60.01,Growth,1
+PRD-00236,Product 0236,Finance,Revenue Ops,SUP-00081,2767.4,3320.35,0.2,43.79,Mature,1
+PRD-00237,Product 0237,Finance,Revenue Ops,SUP-00117,8358.47,10470.52,0.253,58.87,Growth,1
+PRD-00238,Product 0238,Operations,Logistics,SUP-00147,17420.5,23960.27,0.375,93.93,Growth,1
+PRD-00239,Product 0239,Operations,Inventory Control,SUP-00017,2763.6,3811.12,0.379,99.0,Intro,1
+PRD-00240,Product 0240,Automation,RPA,SUP-00109,7348.25,8709.72,0.185,48.76,Mature,1
+PRD-00241,Product 0241,Operations,Procurement,SUP-00021,6033.77,7190.4,0.192,61.34,Intro,1
+PRD-00242,Product 0242,Finance,Revenue Ops,SUP-00016,13451.02,17369.46,0.291,58.84,Decline,0
+PRD-00243,Product 0243,Automation,Workflow,SUP-00015,765.53,920.02,0.202,61.68,Growth,1
+PRD-00244,Product 0244,Security,Risk Scoring,SUP-00042,8196.61,10412.52,0.27,89.62,Mature,1
+PRD-00245,Product 0245,Finance,Planning,SUP-00079,4816.21,5757.6,0.195,55.35,Mature,1
+PRD-00246,Product 0246,Analytics,Forecasting,SUP-00033,5412.57,6593.01,0.218,48.71,Growth,1
+PRD-00247,Product 0247,Security,IAM,SUP-00036,7375.27,10846.57,0.471,54.44,Growth,1
+PRD-00248,Product 0248,Operations,Maintenance,SUP-00153,5302.95,6571.72,0.239,58.82,Mature,1
+PRD-00249,Product 0249,Automation,Workflow,SUP-00024,10251.79,14109.35,0.376,75.09,Intro,1
+PRD-00250,Product 0250,Analytics,Reporting,SUP-00015,5222.82,8018.95,0.535,64.14,Intro,1
+PRD-00251,Product 0251,Analytics,Data Modeling,SUP-00068,16518.36,19913.34,0.206,73.31,Mature,1
+PRD-00252,Product 0252,Finance,Revenue Ops,SUP-00110,8095.05,10514.9,0.299,80.0,Mature,1
+PRD-00253,Product 0253,Automation,Integration,SUP-00095,2854.89,4154.59,0.455,57.22,Decline,0
+PRD-00254,Product 0254,Finance,Planning,SUP-00104,5257.64,6605.31,0.256,60.81,Growth,1
+PRD-00255,Product 0255,Operations,Inventory Control,SUP-00029,14366.43,20239.31,0.409,70.35,Growth,1
+PRD-00256,Product 0256,Operations,Procurement,SUP-00065,2027.56,3010.78,0.485,51.52,Mature,1
+PRD-00257,Product 0257,Automation,Workflow,SUP-00125,6881.51,10993.37,0.598,62.75,Mature,1
+PRD-00258,Product 0258,Security,IAM,SUP-00056,17081.7,27477.97,0.609,80.0,Growth,1
+PRD-00259,Product 0259,Automation,Scheduling,SUP-00096,96.09,120.28,0.252,64.08,Growth,1
+PRD-00260,Product 0260,Automation,Scheduling,SUP-00022,17484.61,27371.71,0.565,83.68,Intro,1
+PRD-00261,Product 0261,Automation,RPA,SUP-00122,6511.56,7833.63,0.203,46.51,Intro,1
+PRD-00262,Product 0262,Automation,RPA,SUP-00157,3858.35,5317.18,0.378,67.75,Growth,1
+PRD-00263,Product 0263,Automation,Integration,SUP-00053,14872.13,20623.24,0.387,71.83,Growth,1
+PRD-00264,Product 0264,Automation,Workflow,SUP-00014,8486.56,10328.89,0.217,67.38,Intro,1
+PRD-00265,Product 0265,Security,Threat Detection,SUP-00063,1968.61,2596.67,0.319,57.11,Mature,1
+PRD-00266,Product 0266,Security,Threat Detection,SUP-00138,12027.12,18306.62,0.522,37.2,Growth,1
+PRD-00267,Product 0267,Finance,Expense Control,SUP-00157,14021.42,17866.42,0.274,81.01,Mature,0
+PRD-00268,Product 0268,Analytics,Reporting,SUP-00087,8158.19,11863.28,0.454,38.01,Decline,1
+PRD-00269,Product 0269,Finance,Planning,SUP-00097,12882.05,20660.27,0.604,39.29,Growth,1
+PRD-00270,Product 0270,Finance,Budgeting,SUP-00106,1995.53,2401.06,0.203,71.88,Growth,1
+PRD-00271,Product 0271,Finance,Planning,SUP-00025,646.06,766.57,0.187,55.72,Growth,1
+PRD-00272,Product 0272,Finance,Planning,SUP-00032,3999.81,5187.17,0.297,64.44,Intro,1
+PRD-00273,Product 0273,Operations,Maintenance,SUP-00115,17656.61,21586.88,0.223,40.19,Growth,1
+PRD-00274,Product 0274,Security,Risk Scoring,SUP-00071,3219.64,3918.07,0.217,66.96,Decline,1
+PRD-00275,Product 0275,Finance,Budgeting,SUP-00119,16560.73,22541.93,0.361,76.22,Growth,1
+PRD-00276,Product 0276,Finance,Budgeting,SUP-00064,5400.43,7922.07,0.467,35.46,Growth,1
+PRD-00277,Product 0277,Automation,Workflow,SUP-00155,8887.58,13390.75,0.507,66.29,Growth,0
+PRD-00278,Product 0278,Automation,Workflow,SUP-00123,12697.87,15591.25,0.228,77.34,Intro,1
+PRD-00279,Product 0279,Analytics,Reporting,SUP-00088,3120.37,4466.1,0.431,39.32,Growth,0
+PRD-00280,Product 0280,Operations,Logistics,SUP-00131,3653.88,5464.14,0.495,64.46,Mature,1
+PRD-00281,Product 0281,Finance,Planning,SUP-00095,4611.44,6691.54,0.451,62.87,Intro,1
+PRD-00282,Product 0282,Finance,Expense Control,SUP-00038,8626.41,11942.15,0.384,68.06,Mature,1
+PRD-00283,Product 0283,Finance,Revenue Ops,SUP-00049,6278.06,8626.41,0.374,57.37,Intro,1
+PRD-00284,Product 0284,Finance,Budgeting,SUP-00030,1615.64,2460.43,0.523,37.24,Mature,1
+PRD-00285,Product 0285,Automation,Workflow,SUP-00090,4865.49,6235.54,0.282,55.25,Decline,1
+PRD-00286,Product 0286,Finance,Expense Control,SUP-00104,14906.96,18808.68,0.262,52.55,Growth,1
+PRD-00287,Product 0287,Automation,Workflow,SUP-00007,9334.2,11259.94,0.206,60.85,Growth,1
+PRD-00288,Product 0288,Security,Risk Scoring,SUP-00071,17057.6,23147.78,0.357,82.49,Mature,1
+PRD-00289,Product 0289,Automation,Workflow,SUP-00132,5047.02,7431.16,0.472,36.73,Growth,1
+PRD-00290,Product 0290,Automation,Integration,SUP-00123,4771.76,6731.54,0.411,78.33,Intro,1
+PRD-00291,Product 0291,Security,Risk Scoring,SUP-00112,7705.57,9380.11,0.217,92.06,Intro,1
+PRD-00292,Product 0292,Operations,Logistics,SUP-00048,1498.5,2422.62,0.617,91.02,Growth,1
+PRD-00293,Product 0293,Finance,Revenue Ops,SUP-00110,5743.94,7716.31,0.343,92.44,Growth,1
+PRD-00294,Product 0294,Security,Compliance,SUP-00039,6536.4,7721.06,0.181,65.27,Mature,1
+PRD-00295,Product 0295,Automation,Scheduling,SUP-00109,11218.01,16227.39,0.447,63.23,Intro,1
+PRD-00296,Product 0296,Operations,Maintenance,SUP-00131,2620.0,3100.1,0.183,31.26,Mature,1
+PRD-00297,Product 0297,Security,Risk Scoring,SUP-00035,16004.15,25233.23,0.577,58.3,Growth,1
+PRD-00298,Product 0298,Automation,Scheduling,SUP-00118,15781.29,22793.0,0.444,81.25,Intro,0
+PRD-00299,Product 0299,Analytics,Forecasting,SUP-00008,9570.95,12680.24,0.325,37.84,Growth,1
+PRD-00300,Product 0300,Security,Compliance,SUP-00104,7618.65,10115.11,0.328,47.38,Mature,0
+PRD-00301,Product 0301,Operations,Logistics,SUP-00085,12596.38,15437.9,0.226,63.86,Intro,1
+PRD-00302,Product 0302,Security,Risk Scoring,SUP-00153,3729.92,5091.83,0.365,33.88,Mature,1
+PRD-00303,Product 0303,Operations,Procurement,SUP-00087,10184.48,14265.9,0.401,93.0,Mature,1
+PRD-00304,Product 0304,Operations,Procurement,SUP-00006,5221.81,6510.57,0.247,71.92,Growth,1
+PRD-00305,Product 0305,Analytics,Data Modeling,SUP-00137,16616.76,24567.44,0.478,67.83,Intro,1
+PRD-00306,Product 0306,Finance,Planning,SUP-00043,8687.19,11468.87,0.32,75.76,Decline,1
+PRD-00307,Product 0307,Automation,Workflow,SUP-00109,9145.91,11065.91,0.21,56.24,Growth,1
+PRD-00308,Product 0308,Automation,RPA,SUP-00125,13743.54,17713.65,0.289,66.76,Mature,1
+PRD-00309,Product 0309,Automation,Scheduling,SUP-00053,14133.84,16902.61,0.196,45.39,Mature,1
+PRD-00310,Product 0310,Operations,Logistics,SUP-00007,4292.87,6784.0,0.58,22.62,Mature,1
+PRD-00311,Product 0311,Operations,Inventory Control,SUP-00083,11002.76,15211.73,0.383,61.45,Mature,1
+PRD-00312,Product 0312,Analytics,Data Modeling,SUP-00065,15597.04,24991.42,0.602,88.9,Growth,0
+PRD-00313,Product 0313,Analytics,Data Modeling,SUP-00086,7479.94,10848.61,0.45,90.47,Mature,1
+PRD-00314,Product 0314,Operations,Logistics,SUP-00145,2066.7,2477.37,0.199,58.79,Mature,1
+PRD-00315,Product 0315,Security,Threat Detection,SUP-00113,15642.6,19644.9,0.256,57.3,Mature,1
+PRD-00316,Product 0316,Automation,Scheduling,SUP-00036,16133.46,22812.66,0.414,35.56,Growth,1
+PRD-00317,Product 0317,Automation,Integration,SUP-00121,2818.88,3336.82,0.184,80.06,Mature,1
+PRD-00318,Product 0318,Operations,Inventory Control,SUP-00047,3926.98,5691.39,0.449,69.19,Mature,1
+PRD-00319,Product 0319,Finance,Revenue Ops,SUP-00099,4361.71,6824.07,0.565,58.79,Growth,1
+PRD-00320,Product 0320,Finance,Revenue Ops,SUP-00041,15041.87,19858.89,0.32,28.47,Growth,1
+PRD-00321,Product 0321,Finance,Expense Control,SUP-00137,17207.29,26660.26,0.549,31.35,Mature,1
+PRD-00322,Product 0322,Analytics,Dashboards,SUP-00078,7153.99,11351.73,0.587,64.2,Mature,0
+PRD-00323,Product 0323,Security,Risk Scoring,SUP-00052,16823.19,21730.97,0.292,35.78,Mature,1
+PRD-00324,Product 0324,Automation,Workflow,SUP-00158,445.02,617.52,0.388,71.15,Mature,1
+PRD-00325,Product 0325,Automation,RPA,SUP-00132,7182.08,9466.01,0.318,71.98,Mature,1
+PRD-00326,Product 0326,Finance,Planning,SUP-00031,2156.2,2814.87,0.305,39.65,Decline,1
+PRD-00327,Product 0327,Automation,Integration,SUP-00006,17739.19,21003.55,0.184,62.82,Decline,1
+PRD-00328,Product 0328,Operations,Inventory Control,SUP-00138,3596.07,4608.26,0.281,46.04,Intro,1
+PRD-00329,Product 0329,Analytics,Forecasting,SUP-00134,16821.67,25720.48,0.529,78.0,Growth,1
+PRD-00330,Product 0330,Operations,Procurement,SUP-00041,13995.21,22052.73,0.576,99.0,Growth,1
+PRD-00331,Product 0331,Automation,Integration,SUP-00050,16042.17,21001.36,0.309,59.98,Mature,1
+PRD-00332,Product 0332,Analytics,Dashboards,SUP-00108,9182.94,10979.77,0.196,87.12,Mature,1
+PRD-00333,Product 0333,Analytics,Data Modeling,SUP-00112,9249.93,13971.19,0.51,79.47,Decline,1
+PRD-00334,Product 0334,Automation,Workflow,SUP-00074,2719.95,4050.12,0.489,60.68,Mature,1
+PRD-00335,Product 0335,Operations,Procurement,SUP-00114,2312.24,3016.7,0.305,71.05,Mature,1
+PRD-00336,Product 0336,Finance,Expense Control,SUP-00049,11920.74,18337.8,0.538,40.48,Mature,1
+PRD-00337,Product 0337,Finance,Revenue Ops,SUP-00061,4996.12,7561.32,0.513,64.34,Mature,0
+PRD-00338,Product 0338,Finance,Revenue Ops,SUP-00077,8584.77,10479.72,0.221,56.9,Growth,1
+PRD-00339,Product 0339,Analytics,Reporting,SUP-00037,2273.5,3169.96,0.394,85.11,Growth,1
+PRD-00340,Product 0340,Operations,Procurement,SUP-00130,10640.19,13338.82,0.254,51.35,Decline,0
+PRD-00341,Product 0341,Finance,Budgeting,SUP-00121,1469.47,1842.59,0.254,44.08,Mature,1
+PRD-00342,Product 0342,Operations,Logistics,SUP-00083,3197.43,4299.9,0.345,44.73,Intro,1
+PRD-00343,Product 0343,Security,IAM,SUP-00050,2709.12,3385.62,0.25,76.55,Intro,1
+PRD-00344,Product 0344,Finance,Budgeting,SUP-00081,2541.95,3927.52,0.545,58.87,Mature,1
+PRD-00345,Product 0345,Analytics,Reporting,SUP-00052,11281.9,15518.11,0.375,33.37,Mature,1
+PRD-00346,Product 0346,Analytics,Reporting,SUP-00038,729.98,1141.26,0.563,79.25,Mature,1
+PRD-00347,Product 0347,Analytics,Reporting,SUP-00104,12143.86,17255.79,0.421,36.32,Growth,1
+PRD-00348,Product 0348,Operations,Procurement,SUP-00032,12152.97,17552.0,0.444,52.68,Mature,1
+PRD-00349,Product 0349,Analytics,Forecasting,SUP-00111,3649.83,5221.75,0.431,58.42,Decline,1
+PRD-00350,Product 0350,Analytics,Reporting,SUP-00109,8554.47,10788.81,0.261,43.37,Mature,1
+PRD-00351,Product 0351,Security,Compliance,SUP-00001,3230.72,4006.15,0.24,33.15,Mature,1
+PRD-00352,Product 0352,Security,Compliance,SUP-00029,5419.3,7108.16,0.312,75.83,Growth,1
+PRD-00353,Product 0353,Automation,Scheduling,SUP-00081,14020.94,20682.13,0.475,73.08,Growth,1
+PRD-00354,Product 0354,Finance,Revenue Ops,SUP-00005,9154.0,14285.37,0.561,62.91,Intro,1
+PRD-00355,Product 0355,Security,Compliance,SUP-00132,17367.28,21670.55,0.248,68.21,Growth,1
+PRD-00356,Product 0356,Operations,Logistics,SUP-00092,16892.34,20548.92,0.216,33.08,Growth,0
+PRD-00357,Product 0357,Operations,Logistics,SUP-00065,3959.98,6147.96,0.553,70.87,Mature,1
+PRD-00358,Product 0358,Operations,Logistics,SUP-00067,14649.21,19598.1,0.338,69.03,Intro,1
+PRD-00359,Product 0359,Security,IAM,SUP-00057,6207.81,8014.32,0.291,69.52,Decline,1
+PRD-00360,Product 0360,Security,Threat Detection,SUP-00106,6948.19,8224.73,0.184,69.46,Decline,1
+PRD-00361,Product 0361,Analytics,Data Modeling,SUP-00100,10750.46,13635.47,0.268,78.9,Growth,1
+PRD-00362,Product 0362,Operations,Logistics,SUP-00009,9113.91,10924.32,0.199,60.03,Decline,1
+PRD-00363,Product 0363,Finance,Budgeting,SUP-00031,16842.27,25006.65,0.485,63.07,Growth,1
+PRD-00364,Product 0364,Operations,Logistics,SUP-00133,16308.55,19737.31,0.21,39.31,Mature,1
+PRD-00365,Product 0365,Automation,Workflow,SUP-00149,8102.11,12239.99,0.511,73.66,Mature,1
+PRD-00366,Product 0366,Finance,Budgeting,SUP-00136,14894.72,22072.77,0.482,50.63,Intro,1
+PRD-00367,Product 0367,Operations,Inventory Control,SUP-00038,16456.46,19659.43,0.195,51.86,Mature,1
+PRD-00368,Product 0368,Finance,Expense Control,SUP-00136,13049.42,21096.78,0.617,55.05,Mature,1
+PRD-00369,Product 0369,Operations,Maintenance,SUP-00112,12585.23,20272.64,0.611,43.77,Mature,1
+PRD-00370,Product 0370,Operations,Logistics,SUP-00034,10188.32,16269.16,0.597,60.19,Mature,1
+PRD-00371,Product 0371,Finance,Expense Control,SUP-00109,12483.77,16081.21,0.288,76.01,Mature,1
+PRD-00372,Product 0372,Finance,Budgeting,SUP-00124,2732.5,4027.75,0.474,43.1,Mature,1
+PRD-00373,Product 0373,Security,Threat Detection,SUP-00115,3769.09,5190.82,0.377,61.72,Mature,1
+PRD-00374,Product 0374,Operations,Procurement,SUP-00153,6666.4,8845.3,0.327,73.33,Mature,0
+PRD-00375,Product 0375,Finance,Revenue Ops,SUP-00135,16985.46,23216.27,0.367,19.84,Mature,1
+PRD-00376,Product 0376,Operations,Maintenance,SUP-00114,5429.06,8068.53,0.486,93.52,Growth,1
+PRD-00377,Product 0377,Analytics,Forecasting,SUP-00084,2381.7,2923.98,0.228,54.15,Decline,1
+PRD-00378,Product 0378,Finance,Revenue Ops,SUP-00098,8372.72,11517.32,0.376,46.11,Decline,1
+PRD-00379,Product 0379,Security,Risk Scoring,SUP-00145,6156.65,9801.78,0.592,63.39,Mature,1
+PRD-00380,Product 0380,Analytics,Reporting,SUP-00065,17829.51,25832.63,0.449,50.53,Decline,1
+PRD-00381,Product 0381,Operations,Maintenance,SUP-00098,7013.97,11107.86,0.584,60.8,Mature,1
+PRD-00382,Product 0382,Finance,Revenue Ops,SUP-00057,10168.83,12114.46,0.191,49.27,Mature,1
+PRD-00383,Product 0383,Finance,Expense Control,SUP-00155,17381.41,24853.72,0.43,81.16,Mature,1
+PRD-00384,Product 0384,Analytics,Reporting,SUP-00143,16046.88,23858.12,0.487,99.0,Growth,1
+PRD-00385,Product 0385,Operations,Procurement,SUP-00015,16255.61,21601.67,0.329,74.29,Mature,1
+PRD-00386,Product 0386,Analytics,Forecasting,SUP-00026,14274.66,17619.97,0.234,65.39,Mature,1
+PRD-00387,Product 0387,Operations,Procurement,SUP-00135,6570.08,8012.5,0.22,52.61,Decline,1
+PRD-00388,Product 0388,Security,Threat Detection,SUP-00098,13947.21,19772.39,0.418,80.04,Mature,1
+PRD-00389,Product 0389,Finance,Budgeting,SUP-00101,10803.94,13663.79,0.265,48.94,Growth,1
+PRD-00390,Product 0390,Analytics,Data Modeling,SUP-00027,6581.5,7911.01,0.202,67.42,Mature,1
+PRD-00391,Product 0391,Security,Risk Scoring,SUP-00143,9594.92,14825.93,0.545,53.16,Intro,1
+PRD-00392,Product 0392,Operations,Logistics,SUP-00123,15571.91,23889.31,0.534,40.64,Mature,1
+PRD-00393,Product 0393,Security,Compliance,SUP-00057,1250.96,1887.34,0.509,58.38,Mature,1
+PRD-00394,Product 0394,Security,Threat Detection,SUP-00142,16184.32,22997.39,0.421,45.25,Decline,1
+PRD-00395,Product 0395,Operations,Procurement,SUP-00105,12803.81,18016.52,0.407,87.09,Growth,1
+PRD-00396,Product 0396,Automation,RPA,SUP-00139,5934.43,8437.31,0.422,49.18,Mature,1
+PRD-00397,Product 0397,Automation,Workflow,SUP-00083,7289.02,11079.19,0.52,59.79,Mature,1
+PRD-00398,Product 0398,Automation,Integration,SUP-00065,7820.37,11501.32,0.471,50.96,Mature,0
+PRD-00399,Product 0399,Automation,RPA,SUP-00122,7838.27,9746.44,0.243,41.0,Mature,1
+PRD-00400,Product 0400,Automation,Scheduling,SUP-00011,444.41,592.45,0.333,73.64,Growth,1
+PRD-00401,Product 0401,Operations,Inventory Control,SUP-00106,3319.48,4915.06,0.481,60.39,Mature,1
+PRD-00402,Product 0402,Automation,Workflow,SUP-00152,7887.02,11218.96,0.422,99.0,Intro,1
+PRD-00403,Product 0403,Automation,Scheduling,SUP-00143,1702.23,2706.31,0.59,79.81,Decline,1
+PRD-00404,Product 0404,Analytics,Dashboards,SUP-00049,2591.4,3375.4,0.303,63.19,Growth,0
+PRD-00405,Product 0405,Finance,Expense Control,SUP-00069,16719.68,25042.37,0.498,68.24,Decline,1
+PRD-00406,Product 0406,Analytics,Reporting,SUP-00036,10221.71,15258.96,0.493,60.47,Growth,1
+PRD-00407,Product 0407,Security,Compliance,SUP-00094,16282.81,24627.48,0.512,44.54,Growth,1
+PRD-00408,Product 0408,Finance,Revenue Ops,SUP-00107,11719.86,17140.81,0.463,37.57,Mature,1
+PRD-00409,Product 0409,Operations,Maintenance,SUP-00137,6456.48,10141.48,0.571,44.06,Growth,1
+PRD-00410,Product 0410,Finance,Planning,SUP-00136,14617.83,22273.01,0.524,84.74,Mature,1
+PRD-00411,Product 0411,Analytics,Forecasting,SUP-00090,10435.4,16058.99,0.539,66.37,Mature,1
+PRD-00412,Product 0412,Security,Threat Detection,SUP-00046,9509.36,13086.65,0.376,71.13,Growth,1
+PRD-00413,Product 0413,Finance,Budgeting,SUP-00069,1721.8,2084.58,0.211,75.38,Mature,1
+PRD-00414,Product 0414,Analytics,Data Modeling,SUP-00061,3756.93,5337.22,0.421,58.6,Growth,1
+PRD-00415,Product 0415,Finance,Expense Control,SUP-00075,801.67,1115.11,0.391,51.71,Mature,0
+PRD-00416,Product 0416,Analytics,Dashboards,SUP-00044,1606.92,2552.71,0.589,96.34,Mature,1
+PRD-00417,Product 0417,Operations,Maintenance,SUP-00124,16047.43,23720.93,0.478,71.02,Mature,0
+PRD-00418,Product 0418,Finance,Budgeting,SUP-00108,14256.86,21787.73,0.528,33.71,Intro,1
+PRD-00419,Product 0419,Automation,Scheduling,SUP-00151,4049.63,6023.18,0.487,32.16,Mature,1
+PRD-00420,Product 0420,Finance,Budgeting,SUP-00010,4414.59,6445.22,0.46,74.75,Growth,0
+PRD-00421,Product 0421,Security,Threat Detection,SUP-00033,8862.28,14020.15,0.582,46.98,Growth,1
+PRD-00422,Product 0422,Operations,Procurement,SUP-00002,5996.77,7253.58,0.21,59.79,Growth,1
+PRD-00423,Product 0423,Analytics,Reporting,SUP-00040,10020.06,15675.92,0.564,24.81,Growth,1
+PRD-00424,Product 0424,Analytics,Reporting,SUP-00018,3961.62,6076.08,0.534,54.13,Decline,1
+PRD-00425,Product 0425,Analytics,Dashboards,SUP-00031,7377.61,11929.52,0.617,77.51,Mature,1
+PRD-00426,Product 0426,Automation,Scheduling,SUP-00091,16495.37,20449.83,0.24,52.9,Intro,1
+PRD-00427,Product 0427,Automation,Scheduling,SUP-00031,8308.85,12885.2,0.551,42.11,Mature,1
+PRD-00428,Product 0428,Operations,Inventory Control,SUP-00093,15764.84,20296.68,0.287,57.85,Mature,1
+PRD-00429,Product 0429,Automation,RPA,SUP-00010,9601.39,11590.74,0.207,62.59,Mature,1
+PRD-00430,Product 0430,Security,Threat Detection,SUP-00109,7726.51,9971.67,0.291,56.01,Mature,1
+PRD-00431,Product 0431,Finance,Budgeting,SUP-00128,9224.71,11490.0,0.246,35.17,Mature,1
+PRD-00432,Product 0432,Finance,Planning,SUP-00132,13358.08,17447.61,0.306,68.69,Mature,1
+PRD-00433,Product 0433,Operations,Logistics,SUP-00055,17972.76,28443.04,0.583,52.24,Mature,1
+PRD-00434,Product 0434,Security,Compliance,SUP-00052,604.95,888.4,0.469,64.96,Intro,1
+PRD-00435,Product 0435,Operations,Logistics,SUP-00068,9341.25,13369.47,0.431,45.4,Mature,1
+PRD-00436,Product 0436,Operations,Procurement,SUP-00143,12121.51,18954.41,0.564,83.18,Growth,1
+PRD-00437,Product 0437,Operations,Maintenance,SUP-00139,7328.94,11546.47,0.575,74.11,Growth,1
+PRD-00438,Product 0438,Automation,Scheduling,SUP-00083,10321.1,16554.61,0.604,55.89,Growth,1
+PRD-00439,Product 0439,Automation,RPA,SUP-00147,1035.03,1620.71,0.566,67.17,Growth,1
+PRD-00440,Product 0440,Security,Risk Scoring,SUP-00045,5101.24,7855.84,0.54,89.81,Growth,1
+PRD-00441,Product 0441,Finance,Planning,SUP-00088,6836.32,8163.5,0.194,81.98,Decline,1
+PRD-00442,Product 0442,Operations,Procurement,SUP-00031,7357.11,10485.28,0.425,87.66,Intro,1
+PRD-00443,Product 0443,Security,IAM,SUP-00016,12292.53,16626.74,0.353,72.29,Mature,1
+PRD-00444,Product 0444,Finance,Revenue Ops,SUP-00111,16249.98,19623.38,0.208,52.79,Mature,1
+PRD-00445,Product 0445,Automation,Workflow,SUP-00074,1169.7,1426.97,0.22,72.0,Intro,1
+PRD-00446,Product 0446,Operations,Inventory Control,SUP-00092,8127.8,11123.79,0.369,90.89,Growth,1
+PRD-00447,Product 0447,Operations,Procurement,SUP-00147,7205.5,11500.33,0.596,72.3,Mature,1
+PRD-00448,Product 0448,Automation,Workflow,SUP-00079,17368.7,23967.95,0.38,47.94,Growth,1
+PRD-00449,Product 0449,Security,Risk Scoring,SUP-00145,12729.73,19350.65,0.52,63.13,Mature,1
+PRD-00450,Product 0450,Security,Compliance,SUP-00093,17191.3,21891.55,0.273,74.93,Growth,1
+PRD-00451,Product 0451,Operations,Inventory Control,SUP-00053,9095.94,11678.06,0.284,64.92,Growth,1
+PRD-00452,Product 0452,Finance,Revenue Ops,SUP-00014,11327.02,17566.74,0.551,74.98,Mature,1
+PRD-00453,Product 0453,Automation,Integration,SUP-00156,15390.43,20126.51,0.308,51.47,Growth,1
+PRD-00454,Product 0454,Security,Compliance,SUP-00128,731.82,1072.57,0.466,58.35,Growth,1
+PRD-00455,Product 0455,Security,Threat Detection,SUP-00052,16661.01,19678.19,0.181,67.8,Growth,1
+PRD-00456,Product 0456,Analytics,Forecasting,SUP-00114,8610.8,10266.7,0.192,68.61,Growth,1
+PRD-00457,Product 0457,Analytics,Dashboards,SUP-00131,17307.81,24039.31,0.389,51.24,Mature,1
+PRD-00458,Product 0458,Security,Risk Scoring,SUP-00004,242.67,349.32,0.439,20.36,Mature,1
+PRD-00459,Product 0459,Finance,Planning,SUP-00150,1759.52,2137.17,0.215,13.02,Mature,0
+PRD-00460,Product 0460,Automation,Workflow,SUP-00022,1416.69,2162.72,0.527,61.2,Mature,1
+PRD-00461,Product 0461,Operations,Inventory Control,SUP-00021,1078.78,1303.99,0.209,65.11,Decline,1
+PRD-00462,Product 0462,Operations,Inventory Control,SUP-00072,2471.8,3633.41,0.47,58.48,Growth,1
+PRD-00463,Product 0463,Operations,Inventory Control,SUP-00047,6047.36,8929.75,0.477,62.6,Mature,1
+PRD-00464,Product 0464,Security,Compliance,SUP-00062,2478.85,3404.08,0.373,89.22,Mature,1
+PRD-00465,Product 0465,Security,Threat Detection,SUP-00090,2676.47,3702.69,0.383,53.56,Mature,1
+PRD-00466,Product 0466,Security,Compliance,SUP-00068,8141.22,9614.92,0.181,68.21,Mature,1
+PRD-00467,Product 0467,Finance,Budgeting,SUP-00060,11307.65,16000.54,0.415,90.63,Growth,1
+PRD-00468,Product 0468,Automation,Scheduling,SUP-00086,880.78,1156.46,0.313,44.38,Growth,1
+PRD-00469,Product 0469,Analytics,Reporting,SUP-00157,10372.58,13275.02,0.28,92.1,Intro,1
+PRD-00470,Product 0470,Finance,Expense Control,SUP-00112,10505.85,12895.73,0.227,78.51,Growth,1
+PRD-00471,Product 0471,Security,IAM,SUP-00065,5827.19,8448.91,0.45,56.73,Growth,1
+PRD-00472,Product 0472,Finance,Planning,SUP-00112,3454.04,5376.5,0.557,18.91,Growth,0
+PRD-00473,Product 0473,Operations,Inventory Control,SUP-00135,11413.16,14094.81,0.235,85.64,Growth,1
+PRD-00474,Product 0474,Security,Threat Detection,SUP-00008,14079.89,21130.41,0.501,92.09,Growth,1
+PRD-00475,Product 0475,Operations,Logistics,SUP-00032,5166.93,7188.49,0.391,50.19,Mature,1
+PRD-00476,Product 0476,Automation,RPA,SUP-00160,9213.97,10912.87,0.184,93.16,Mature,1
+PRD-00477,Product 0477,Operations,Logistics,SUP-00158,1847.69,2578.14,0.395,33.26,Growth,1
+PRD-00478,Product 0478,Automation,Workflow,SUP-00113,14089.95,21869.7,0.552,66.96,Mature,1
+PRD-00479,Product 0479,Finance,Planning,SUP-00117,11954.06,19143.81,0.601,58.98,Decline,1
+PRD-00480,Product 0480,Security,IAM,SUP-00146,7753.51,10741.63,0.385,39.27,Growth,1
+PRD-00481,Product 0481,Security,Risk Scoring,SUP-00003,10924.11,15052.42,0.378,57.75,Mature,1
+PRD-00482,Product 0482,Automation,Scheduling,SUP-00085,17194.67,22889.78,0.331,61.48,Intro,1
+PRD-00483,Product 0483,Operations,Procurement,SUP-00028,10147.35,13664.21,0.347,41.78,Intro,1
+PRD-00484,Product 0484,Security,Compliance,SUP-00153,7732.05,10743.46,0.389,73.48,Growth,1
+PRD-00485,Product 0485,Security,Compliance,SUP-00017,8189.93,9950.89,0.215,50.41,Mature,1
+PRD-00486,Product 0486,Analytics,Reporting,SUP-00020,3335.76,4887.27,0.465,55.89,Growth,1
+PRD-00487,Product 0487,Operations,Procurement,SUP-00095,16386.41,21908.41,0.337,86.6,Growth,1
+PRD-00488,Product 0488,Analytics,Forecasting,SUP-00053,9950.37,14633.74,0.471,50.87,Mature,0
+PRD-00489,Product 0489,Security,Threat Detection,SUP-00134,7155.16,10434.81,0.458,23.55,Decline,1
+PRD-00490,Product 0490,Operations,Procurement,SUP-00048,16857.87,26465.55,0.57,57.72,Mature,1
+PRD-00491,Product 0491,Security,Threat Detection,SUP-00126,9951.42,12974.06,0.304,63.85,Growth,1
+PRD-00492,Product 0492,Analytics,Reporting,SUP-00063,2695.79,4290.77,0.592,57.9,Decline,0
+PRD-00493,Product 0493,Finance,Budgeting,SUP-00093,12503.93,18381.65,0.47,76.63,Growth,1
+PRD-00494,Product 0494,Analytics,Dashboards,SUP-00156,17408.97,25304.84,0.454,68.8,Decline,1
+PRD-00495,Product 0495,Operations,Maintenance,SUP-00099,14895.87,21214.59,0.424,51.81,Intro,1
+PRD-00496,Product 0496,Analytics,Reporting,SUP-00031,6893.75,8754.11,0.27,73.84,Decline,1
+PRD-00497,Product 0497,Operations,Inventory Control,SUP-00151,14570.38,17239.16,0.183,69.88,Growth,1
+PRD-00498,Product 0498,Finance,Budgeting,SUP-00151,8701.68,12403.56,0.425,69.37,Growth,1
+PRD-00499,Product 0499,Security,Risk Scoring,SUP-00073,7328.71,11597.96,0.583,59.28,Mature,1
+PRD-00500,Product 0500,Analytics,Reporting,SUP-00061,10033.27,15580.09,0.553,66.85,Mature,1
+PRD-00501,Product 0501,Analytics,Reporting,SUP-00121,1451.49,1762.12,0.214,63.85,Mature,1
+PRD-00502,Product 0502,Automation,RPA,SUP-00089,4811.63,6335.77,0.317,56.9,Mature,1
+PRD-00503,Product 0503,Automation,RPA,SUP-00016,10457.98,14539.65,0.39,70.15,Mature,1
+PRD-00504,Product 0504,Finance,Planning,SUP-00053,2177.2,3036.93,0.395,71.46,Intro,1
+PRD-00505,Product 0505,Analytics,Reporting,SUP-00014,7428.69,9370.93,0.261,71.47,Growth,1
+PRD-00506,Product 0506,Security,Threat Detection,SUP-00047,14908.07,22067.71,0.48,72.49,Mature,1
+PRD-00507,Product 0507,Operations,Logistics,SUP-00028,16097.11,22426.42,0.393,23.75,Growth,1
+PRD-00508,Product 0508,Operations,Procurement,SUP-00158,3348.08,5217.01,0.558,77.37,Growth,1
+PRD-00509,Product 0509,Operations,Inventory Control,SUP-00154,17007.4,21946.14,0.29,45.61,Growth,1
+PRD-00510,Product 0510,Operations,Procurement,SUP-00004,8446.6,13347.05,0.58,81.04,Mature,1
+PRD-00511,Product 0511,Analytics,Reporting,SUP-00122,2800.75,4321.73,0.543,38.87,Growth,1
+PRD-00512,Product 0512,Finance,Expense Control,SUP-00131,13528.8,18431.14,0.362,88.89,Growth,1
+PRD-00513,Product 0513,Security,Compliance,SUP-00146,1603.8,2463.8,0.536,24.88,Growth,1
+PRD-00514,Product 0514,Security,Threat Detection,SUP-00142,13189.46,19247.02,0.459,67.5,Mature,0
+PRD-00515,Product 0515,Finance,Planning,SUP-00055,12593.92,17373.3,0.379,55.78,Growth,1
+PRD-00516,Product 0516,Operations,Maintenance,SUP-00078,11501.96,16160.06,0.405,69.88,Growth,1
+PRD-00517,Product 0517,Analytics,Data Modeling,SUP-00027,14913.88,21198.7,0.421,91.33,Mature,1
+PRD-00518,Product 0518,Automation,RPA,SUP-00139,14827.05,18980.63,0.28,66.02,Growth,1
+PRD-00519,Product 0519,Automation,Workflow,SUP-00010,7976.08,9949.58,0.247,77.97,Decline,1
+PRD-00520,Product 0520,Finance,Budgeting,SUP-00081,9328.02,14236.13,0.526,88.09,Mature,0
+PRD-00521,Product 0521,Analytics,Forecasting,SUP-00071,7563.15,9213.37,0.218,51.48,Growth,0
+PRD-00522,Product 0522,Security,Compliance,SUP-00055,11071.7,16420.64,0.483,68.15,Intro,1
+PRD-00523,Product 0523,Security,Risk Scoring,SUP-00156,9441.84,14793.67,0.567,85.26,Growth,1
+PRD-00524,Product 0524,Analytics,Reporting,SUP-00077,5388.2,7392.78,0.372,68.0,Mature,1
+PRD-00525,Product 0525,Security,IAM,SUP-00007,7658.85,11648.65,0.521,52.03,Growth,1
+PRD-00526,Product 0526,Automation,Scheduling,SUP-00136,10199.19,15913.51,0.56,70.76,Growth,1
+PRD-00527,Product 0527,Automation,Integration,SUP-00149,14417.41,18808.54,0.305,63.95,Mature,1
+PRD-00528,Product 0528,Operations,Maintenance,SUP-00056,2493.03,3216.49,0.29,70.66,Mature,1
+PRD-00529,Product 0529,Finance,Budgeting,SUP-00045,10153.98,14355.98,0.414,53.02,Growth,0
+PRD-00530,Product 0530,Analytics,Dashboards,SUP-00113,16896.15,26687.96,0.58,66.12,Growth,0
+PRD-00531,Product 0531,Security,Risk Scoring,SUP-00010,7400.75,10994.87,0.486,59.63,Mature,1
+PRD-00532,Product 0532,Analytics,Forecasting,SUP-00105,1302.98,1642.76,0.261,53.59,Mature,1
+PRD-00533,Product 0533,Analytics,Dashboards,SUP-00028,15303.87,20752.77,0.356,84.27,Growth,0
+PRD-00534,Product 0534,Analytics,Data Modeling,SUP-00035,3879.31,5566.85,0.435,53.27,Decline,1
+PRD-00535,Product 0535,Operations,Procurement,SUP-00016,12576.62,16897.88,0.344,49.16,Growth,1
+PRD-00536,Product 0536,Security,Compliance,SUP-00103,8352.02,10562.59,0.265,41.83,Mature,1
+PRD-00537,Product 0537,Automation,Scheduling,SUP-00109,16939.2,26036.91,0.537,60.9,Mature,1
+PRD-00538,Product 0538,Security,Compliance,SUP-00075,13946.22,20686.45,0.483,59.41,Mature,1
+PRD-00539,Product 0539,Operations,Inventory Control,SUP-00153,14450.3,22047.57,0.526,74.28,Mature,1
+PRD-00540,Product 0540,Automation,RPA,SUP-00013,10846.95,13573.15,0.251,41.07,Growth,1
+PRD-00541,Product 0541,Security,Risk Scoring,SUP-00159,2574.05,3210.84,0.247,33.36,Decline,1
+PRD-00542,Product 0542,Analytics,Dashboards,SUP-00130,3112.97,3804.37,0.222,30.47,Intro,1
+PRD-00543,Product 0543,Automation,Integration,SUP-00012,868.73,1275.6,0.468,69.75,Intro,1
+PRD-00544,Product 0544,Automation,RPA,SUP-00069,11358.74,17915.04,0.577,79.59,Decline,1
+PRD-00545,Product 0545,Analytics,Reporting,SUP-00088,12448.37,19364.57,0.556,78.2,Growth,1
+PRD-00546,Product 0546,Finance,Budgeting,SUP-00098,3766.16,4873.54,0.294,53.47,Mature,1
+PRD-00547,Product 0547,Finance,Budgeting,SUP-00070,15473.2,20549.59,0.328,64.21,Mature,1
+PRD-00548,Product 0548,Security,Threat Detection,SUP-00049,6411.36,8919.44,0.391,23.8,Mature,1
+PRD-00549,Product 0549,Automation,Integration,SUP-00045,4003.64,4758.48,0.189,89.5,Growth,1
+PRD-00550,Product 0550,Analytics,Dashboards,SUP-00096,13533.73,19974.99,0.476,81.67,Growth,1
+PRD-00551,Product 0551,Finance,Expense Control,SUP-00087,11306.35,14423.61,0.276,77.37,Mature,1
+PRD-00552,Product 0552,Security,Risk Scoring,SUP-00062,3654.08,5620.97,0.538,46.74,Intro,1
+PRD-00553,Product 0553,Security,Threat Detection,SUP-00040,15000.18,21106.04,0.407,55.82,Mature,1
+PRD-00554,Product 0554,Security,Compliance,SUP-00082,1955.44,2440.86,0.248,58.77,Growth,0
+PRD-00555,Product 0555,Operations,Procurement,SUP-00039,3482.21,5257.48,0.51,90.91,Intro,1
+PRD-00556,Product 0556,Security,IAM,SUP-00068,13832.09,21242.08,0.536,79.0,Growth,1
+PRD-00557,Product 0557,Security,Compliance,SUP-00153,9766.12,15198.88,0.556,58.82,Growth,1
+PRD-00558,Product 0558,Operations,Inventory Control,SUP-00119,7835.21,9610.44,0.227,71.94,Mature,1
+PRD-00559,Product 0559,Finance,Planning,SUP-00120,2799.5,3882.55,0.387,46.5,Growth,1
+PRD-00560,Product 0560,Operations,Procurement,SUP-00009,1680.11,2020.79,0.203,38.46,Mature,1
+PRD-00561,Product 0561,Automation,Integration,SUP-00123,7871.86,12608.24,0.602,60.83,Mature,1
+PRD-00562,Product 0562,Analytics,Dashboards,SUP-00101,17711.06,24538.64,0.385,42.66,Decline,1
+PRD-00563,Product 0563,Automation,RPA,SUP-00082,11230.26,17022.93,0.516,33.24,Growth,1
+PRD-00564,Product 0564,Finance,Budgeting,SUP-00044,5773.35,7447.7,0.29,62.57,Mature,1
+PRD-00565,Product 0565,Finance,Revenue Ops,SUP-00069,17984.44,22884.57,0.272,57.5,Growth,1
+PRD-00566,Product 0566,Security,Compliance,SUP-00059,17959.11,24997.28,0.392,44.85,Decline,1
+PRD-00567,Product 0567,Analytics,Data Modeling,SUP-00062,6129.8,8873.04,0.448,55.2,Decline,1
+PRD-00568,Product 0568,Operations,Logistics,SUP-00130,3974.3,5166.4,0.3,68.44,Mature,1
+PRD-00569,Product 0569,Operations,Inventory Control,SUP-00022,3554.72,4739.46,0.333,58.16,Growth,1
+PRD-00570,Product 0570,Analytics,Data Modeling,SUP-00102,10611.92,14461.31,0.363,64.38,Growth,1
+PRD-00571,Product 0571,Finance,Revenue Ops,SUP-00156,5706.16,6758.49,0.184,59.11,Mature,1
+PRD-00572,Product 0572,Finance,Planning,SUP-00029,14052.45,18067.47,0.286,91.41,Mature,1
+PRD-00573,Product 0573,Finance,Revenue Ops,SUP-00109,6426.84,9770.32,0.52,84.6,Growth,1
+PRD-00574,Product 0574,Security,Risk Scoring,SUP-00018,10991.75,16902.19,0.538,63.98,Growth,1
+PRD-00575,Product 0575,Finance,Revenue Ops,SUP-00082,4535.68,6821.71,0.504,48.07,Intro,1
+PRD-00576,Product 0576,Analytics,Dashboards,SUP-00053,8695.99,10794.89,0.241,52.47,Mature,1
+PRD-00577,Product 0577,Analytics,Reporting,SUP-00101,11871.09,14748.9,0.242,40.05,Mature,1
+PRD-00578,Product 0578,Analytics,Forecasting,SUP-00121,17831.82,23478.86,0.317,48.44,Decline,1
+PRD-00579,Product 0579,Security,Threat Detection,SUP-00160,5527.35,7042.94,0.274,73.36,Mature,1
+PRD-00580,Product 0580,Security,Compliance,SUP-00016,13608.06,16192.97,0.19,51.91,Decline,1
+PRD-00581,Product 0581,Operations,Inventory Control,SUP-00041,10927.69,13959.24,0.277,59.03,Growth,1
+PRD-00582,Product 0582,Automation,Integration,SUP-00113,13608.13,18963.56,0.394,82.08,Mature,1
+PRD-00583,Product 0583,Automation,Scheduling,SUP-00141,11056.75,16004.56,0.447,71.4,Mature,1
+PRD-00584,Product 0584,Automation,RPA,SUP-00062,2013.0,2454.69,0.219,63.17,Mature,1
+PRD-00585,Product 0585,Operations,Maintenance,SUP-00017,4339.01,5837.18,0.345,60.06,Mature,1
+PRD-00586,Product 0586,Automation,Workflow,SUP-00015,12850.13,17292.85,0.346,58.63,Growth,1
+PRD-00587,Product 0587,Finance,Planning,SUP-00001,13378.89,16570.2,0.239,77.83,Growth,1
+PRD-00588,Product 0588,Automation,Workflow,SUP-00013,11359.66,18141.94,0.597,67.06,Mature,1
+PRD-00589,Product 0589,Operations,Inventory Control,SUP-00146,3619.73,5853.92,0.617,57.64,Growth,1
+PRD-00590,Product 0590,Automation,RPA,SUP-00160,2002.89,2463.17,0.23,40.35,Decline,1
+PRD-00591,Product 0591,Security,Risk Scoring,SUP-00014,13272.47,17256.98,0.3,70.21,Mature,1
+PRD-00592,Product 0592,Security,IAM,SUP-00160,11500.34,13629.33,0.185,67.82,Mature,1
+PRD-00593,Product 0593,Operations,Procurement,SUP-00110,10085.07,15403.45,0.527,35.1,Mature,1
+PRD-00594,Product 0594,Finance,Budgeting,SUP-00088,414.45,565.47,0.364,59.37,Mature,1
+PRD-00595,Product 0595,Automation,Integration,SUP-00077,11176.83,18016.14,0.612,67.69,Mature,1
+PRD-00596,Product 0596,Operations,Maintenance,SUP-00041,14037.48,19623.84,0.398,57.56,Mature,1
+PRD-00597,Product 0597,Operations,Inventory Control,SUP-00066,8398.7,10162.97,0.21,92.84,Growth,1
+PRD-00598,Product 0598,Operations,Inventory Control,SUP-00156,989.23,1524.45,0.541,87.96,Growth,0
+PRD-00599,Product 0599,Security,IAM,SUP-00159,5271.2,8037.62,0.525,40.55,Decline,1
+PRD-00600,Product 0600,Automation,Workflow,SUP-00105,3196.51,4055.03,0.269,57.78,Intro,1
+PRD-00601,Product 0601,Operations,Procurement,SUP-00052,11160.83,14061.95,0.26,78.47,Intro,1
+PRD-00602,Product 0602,Automation,RPA,SUP-00057,2258.43,3592.46,0.591,60.58,Decline,1
+PRD-00603,Product 0603,Security,Threat Detection,SUP-00015,809.06,1309.06,0.618,74.53,Growth,1
+PRD-00604,Product 0604,Analytics,Forecasting,SUP-00041,14741.24,22040.62,0.495,50.99,Mature,1
+PRD-00605,Product 0605,Security,IAM,SUP-00040,16600.2,20836.81,0.255,35.31,Growth,1
+PRD-00606,Product 0606,Operations,Procurement,SUP-00155,15202.76,19262.21,0.267,73.78,Growth,1
+PRD-00607,Product 0607,Analytics,Reporting,SUP-00155,10537.23,15522.97,0.473,56.35,Mature,1
+PRD-00608,Product 0608,Automation,Scheduling,SUP-00099,6467.17,7875.06,0.218,99.0,Mature,0
+PRD-00609,Product 0609,Operations,Inventory Control,SUP-00150,1514.87,1920.36,0.268,77.98,Decline,1
+PRD-00610,Product 0610,Security,Compliance,SUP-00092,7072.73,8372.74,0.184,43.98,Mature,1
+PRD-00611,Product 0611,Finance,Revenue Ops,SUP-00047,3365.24,4772.05,0.418,73.45,Mature,1
+PRD-00612,Product 0612,Finance,Revenue Ops,SUP-00084,14560.23,21129.53,0.451,60.8,Mature,1
+PRD-00613,Product 0613,Automation,Integration,SUP-00088,15018.41,24124.84,0.606,70.94,Mature,1
+PRD-00614,Product 0614,Finance,Expense Control,SUP-00048,8494.15,10381.0,0.222,49.7,Growth,1
+PRD-00615,Product 0615,Operations,Inventory Control,SUP-00095,5584.87,8842.04,0.583,67.31,Growth,1
+PRD-00616,Product 0616,Automation,Integration,SUP-00143,12608.77,16570.9,0.314,80.01,Growth,1
+PRD-00617,Product 0617,Operations,Inventory Control,SUP-00157,11322.72,17752.04,0.568,75.98,Mature,1
+PRD-00618,Product 0618,Analytics,Reporting,SUP-00150,10487.83,15503.82,0.478,80.61,Decline,1
+PRD-00619,Product 0619,Operations,Procurement,SUP-00100,16665.06,22085.14,0.325,99.0,Mature,0
+PRD-00620,Product 0620,Finance,Revenue Ops,SUP-00100,5090.23,7987.26,0.569,54.06,Mature,1
+PRD-00621,Product 0621,Finance,Planning,SUP-00136,6008.12,8665.38,0.442,92.69,Growth,1
+PRD-00622,Product 0622,Analytics,Dashboards,SUP-00050,1052.75,1545.11,0.468,67.03,Mature,1
+PRD-00623,Product 0623,Finance,Expense Control,SUP-00024,4013.93,6311.14,0.572,55.42,Mature,1
+PRD-00624,Product 0624,Automation,Integration,SUP-00003,8491.96,11718.26,0.38,61.88,Mature,1
+PRD-00625,Product 0625,Finance,Revenue Ops,SUP-00079,14782.96,18176.29,0.23,77.35,Growth,1
+PRD-00626,Product 0626,Security,Compliance,SUP-00024,3463.95,4210.61,0.216,55.74,Growth,1
+PRD-00627,Product 0627,Security,Compliance,SUP-00123,9450.73,12495.92,0.322,28.68,Mature,1
+PRD-00628,Product 0628,Security,IAM,SUP-00034,5612.2,8739.95,0.557,76.28,Growth,0
+PRD-00629,Product 0629,Analytics,Reporting,SUP-00007,14154.75,22619.31,0.598,65.87,Mature,0
+PRD-00630,Product 0630,Operations,Inventory Control,SUP-00062,11511.98,16439.32,0.428,53.18,Growth,1
+PRD-00631,Product 0631,Security,IAM,SUP-00070,1058.58,1514.79,0.431,40.56,Intro,0
+PRD-00632,Product 0632,Automation,Scheduling,SUP-00087,2992.56,3856.75,0.289,68.92,Growth,0
+PRD-00633,Product 0633,Security,IAM,SUP-00152,13765.96,21591.99,0.569,83.95,Growth,1
+PRD-00634,Product 0634,Automation,RPA,SUP-00081,12235.79,16541.23,0.352,46.76,Intro,0
+PRD-00635,Product 0635,Analytics,Dashboards,SUP-00125,2158.95,3005.77,0.392,66.79,Growth,1
+PRD-00636,Product 0636,Operations,Procurement,SUP-00119,5486.48,8791.67,0.602,99.0,Mature,1
+PRD-00637,Product 0637,Finance,Planning,SUP-00023,4950.69,7577.22,0.531,78.13,Mature,1
+PRD-00638,Product 0638,Finance,Expense Control,SUP-00038,8524.94,12924.69,0.516,62.08,Mature,1
+PRD-00639,Product 0639,Finance,Budgeting,SUP-00079,540.0,744.43,0.379,60.37,Mature,1
+PRD-00640,Product 0640,Analytics,Dashboards,SUP-00050,9579.37,11912.51,0.244,54.05,Growth,1
+PRD-00641,Product 0641,Operations,Procurement,SUP-00074,3057.53,4077.09,0.333,63.4,Growth,1
+PRD-00642,Product 0642,Analytics,Dashboards,SUP-00033,13240.56,18146.24,0.371,55.12,Growth,1
+PRD-00643,Product 0643,Security,IAM,SUP-00020,9898.68,15154.05,0.531,57.62,Growth,1
+PRD-00644,Product 0644,Finance,Expense Control,SUP-00064,14186.62,21541.88,0.518,60.21,Growth,1
+PRD-00645,Product 0645,Automation,Scheduling,SUP-00050,11366.48,18014.69,0.585,34.91,Decline,1
+PRD-00646,Product 0646,Security,IAM,SUP-00093,16376.03,19841.67,0.212,59.83,Intro,1
+PRD-00647,Product 0647,Finance,Budgeting,SUP-00029,17190.62,23623.67,0.374,99.0,Growth,1
+PRD-00648,Product 0648,Operations,Logistics,SUP-00101,11234.91,17362.02,0.545,39.05,Decline,1
+PRD-00649,Product 0649,Security,Compliance,SUP-00159,11321.0,15687.57,0.386,88.79,Mature,0
+PRD-00650,Product 0650,Finance,Planning,SUP-00071,6445.27,8262.17,0.282,80.66,Decline,1
+PRD-00651,Product 0651,Automation,Scheduling,SUP-00081,16815.47,25745.16,0.531,73.86,Growth,1
+PRD-00652,Product 0652,Security,Compliance,SUP-00013,14679.21,17647.91,0.202,53.92,Mature,1
+PRD-00653,Product 0653,Finance,Revenue Ops,SUP-00025,4543.83,6085.33,0.339,78.7,Mature,1
+PRD-00654,Product 0654,Operations,Procurement,SUP-00005,4801.91,7116.69,0.482,94.39,Decline,1
+PRD-00655,Product 0655,Finance,Revenue Ops,SUP-00075,13372.1,16722.13,0.251,81.75,Growth,1
+PRD-00656,Product 0656,Automation,RPA,SUP-00080,6368.22,9865.0,0.549,67.7,Mature,1
+PRD-00657,Product 0657,Automation,Integration,SUP-00015,14819.81,20078.06,0.355,63.84,Growth,1
+PRD-00658,Product 0658,Security,IAM,SUP-00068,16506.63,22245.09,0.348,52.68,Mature,1
+PRD-00659,Product 0659,Security,IAM,SUP-00135,2144.53,3426.13,0.598,65.39,Intro,0
+PRD-00660,Product 0660,Security,IAM,SUP-00139,9411.0,11712.86,0.245,72.89,Growth,1
+PRD-00661,Product 0661,Security,Threat Detection,SUP-00103,15990.17,21938.52,0.372,64.39,Intro,1
+PRD-00662,Product 0662,Automation,Workflow,SUP-00122,9962.02,13995.95,0.405,62.39,Growth,1
+PRD-00663,Product 0663,Finance,Planning,SUP-00084,2683.17,3280.46,0.223,62.62,Mature,1
+PRD-00664,Product 0664,Finance,Planning,SUP-00052,14259.62,18806.65,0.319,94.92,Growth,1
+PRD-00665,Product 0665,Security,Compliance,SUP-00117,3755.44,5311.24,0.414,66.75,Mature,1
+PRD-00666,Product 0666,Analytics,Dashboards,SUP-00136,8955.0,14200.48,0.586,67.38,Intro,1
+PRD-00667,Product 0667,Security,Threat Detection,SUP-00050,17422.02,24160.5,0.387,22.99,Mature,1
+PRD-00668,Product 0668,Automation,Scheduling,SUP-00065,16021.14,22843.0,0.426,80.19,Intro,1
+PRD-00669,Product 0669,Security,IAM,SUP-00066,11000.94,16249.34,0.477,73.74,Growth,1
+PRD-00670,Product 0670,Automation,Scheduling,SUP-00115,2888.12,3593.18,0.244,72.94,Mature,0
+PRD-00671,Product 0671,Finance,Budgeting,SUP-00015,6996.57,8708.86,0.245,74.09,Intro,1
+PRD-00672,Product 0672,Operations,Logistics,SUP-00120,4325.07,6013.85,0.39,47.62,Growth,1
+PRD-00673,Product 0673,Analytics,Reporting,SUP-00039,12194.03,17738.17,0.455,58.82,Decline,1
+PRD-00674,Product 0674,Automation,Integration,SUP-00074,13719.33,18105.01,0.32,93.71,Growth,1
+PRD-00675,Product 0675,Operations,Logistics,SUP-00006,11263.2,13693.49,0.216,39.94,Decline,1
+PRD-00676,Product 0676,Analytics,Forecasting,SUP-00130,10976.55,16600.8,0.512,40.97,Growth,1
+PRD-00677,Product 0677,Analytics,Data Modeling,SUP-00017,5685.45,8458.44,0.488,38.78,Growth,1
+PRD-00678,Product 0678,Security,IAM,SUP-00038,8186.65,12932.18,0.58,60.62,Mature,1
+PRD-00679,Product 0679,Automation,RPA,SUP-00105,17685.26,27029.05,0.528,90.86,Intro,1
+PRD-00680,Product 0680,Analytics,Forecasting,SUP-00054,16369.87,24650.97,0.506,68.48,Mature,1
+PRD-00681,Product 0681,Operations,Logistics,SUP-00037,12852.79,18123.27,0.41,82.23,Decline,1
+PRD-00682,Product 0682,Operations,Procurement,SUP-00089,15622.95,24882.4,0.593,29.77,Growth,1
+PRD-00683,Product 0683,Operations,Maintenance,SUP-00002,12766.51,18930.37,0.483,49.45,Mature,1
+PRD-00684,Product 0684,Analytics,Reporting,SUP-00059,11528.94,14170.36,0.229,52.16,Growth,1
+PRD-00685,Product 0685,Finance,Revenue Ops,SUP-00032,13644.22,20768.24,0.522,90.98,Mature,1
+PRD-00686,Product 0686,Analytics,Forecasting,SUP-00089,4503.33,5759.7,0.279,66.19,Mature,1
+PRD-00687,Product 0687,Security,Risk Scoring,SUP-00050,17356.31,26647.69,0.535,62.91,Mature,1
+PRD-00688,Product 0688,Finance,Revenue Ops,SUP-00107,7857.91,12695.79,0.616,67.07,Intro,0
+PRD-00689,Product 0689,Finance,Expense Control,SUP-00023,865.09,1070.34,0.237,59.72,Mature,1
+PRD-00690,Product 0690,Finance,Revenue Ops,SUP-00013,3436.06,4176.16,0.215,97.57,Mature,1
+PRD-00691,Product 0691,Security,Risk Scoring,SUP-00035,11944.13,18197.2,0.524,96.9,Growth,1
+PRD-00692,Product 0692,Security,Threat Detection,SUP-00139,11990.7,18361.66,0.531,82.81,Growth,1
+PRD-00693,Product 0693,Automation,RPA,SUP-00157,9790.87,14456.88,0.477,80.89,Growth,1
+PRD-00694,Product 0694,Finance,Planning,SUP-00011,9075.26,12567.74,0.385,55.08,Growth,1
+PRD-00695,Product 0695,Security,Risk Scoring,SUP-00004,11436.34,17811.98,0.557,71.73,Growth,1
+PRD-00696,Product 0696,Operations,Logistics,SUP-00026,13007.45,19140.91,0.472,29.71,Growth,1
+PRD-00697,Product 0697,Analytics,Dashboards,SUP-00091,3693.33,5762.48,0.56,56.46,Growth,1
+PRD-00698,Product 0698,Automation,RPA,SUP-00149,3759.87,4990.15,0.327,37.36,Intro,1
+PRD-00699,Product 0699,Security,Risk Scoring,SUP-00126,724.1,963.15,0.33,72.28,Mature,1
+PRD-00700,Product 0700,Finance,Budgeting,SUP-00040,10900.89,15789.93,0.448,62.04,Intro,0
+PRD-00701,Product 0701,Security,Compliance,SUP-00158,6764.61,10028.66,0.483,76.81,Growth,1
+PRD-00702,Product 0702,Analytics,Forecasting,SUP-00044,16862.48,20890.14,0.239,74.9,Mature,1
+PRD-00703,Product 0703,Automation,RPA,SUP-00058,6084.51,7604.92,0.25,82.89,Mature,0
+PRD-00704,Product 0704,Security,IAM,SUP-00131,10200.8,15775.28,0.546,50.75,Intro,1
+PRD-00705,Product 0705,Security,Compliance,SUP-00049,6276.43,8992.14,0.433,33.22,Decline,1
+PRD-00706,Product 0706,Automation,Scheduling,SUP-00119,6460.28,8274.12,0.281,96.78,Intro,1
+PRD-00707,Product 0707,Operations,Inventory Control,SUP-00068,6579.36,8728.62,0.327,54.53,Mature,1
+PRD-00708,Product 0708,Operations,Logistics,SUP-00134,11014.06,16958.54,0.54,63.0,Mature,1
+PRD-00709,Product 0709,Security,Compliance,SUP-00101,6645.28,8460.81,0.273,82.0,Growth,1
+PRD-00710,Product 0710,Finance,Budgeting,SUP-00149,2725.43,3941.51,0.446,58.8,Decline,1
+PRD-00711,Product 0711,Automation,Scheduling,SUP-00071,3032.96,4257.53,0.404,44.34,Mature,1
+PRD-00712,Product 0712,Automation,Integration,SUP-00060,9525.37,15244.19,0.6,99.0,Growth,1
+PRD-00713,Product 0713,Finance,Planning,SUP-00053,7854.34,11902.0,0.515,54.45,Intro,0
+PRD-00714,Product 0714,Analytics,Reporting,SUP-00088,15722.24,23509.07,0.495,95.21,Mature,1
+PRD-00715,Product 0715,Finance,Expense Control,SUP-00146,828.05,1251.43,0.511,70.09,Decline,1
+PRD-00716,Product 0716,Analytics,Reporting,SUP-00026,4822.25,7700.11,0.597,80.97,Mature,1
+PRD-00717,Product 0717,Automation,Integration,SUP-00066,12479.86,16133.44,0.293,80.65,Growth,1
+PRD-00718,Product 0718,Analytics,Forecasting,SUP-00040,12340.77,14749.68,0.195,56.89,Mature,1
+PRD-00719,Product 0719,Security,Risk Scoring,SUP-00030,1447.68,1892.92,0.308,74.11,Intro,1
+PRD-00720,Product 0720,Automation,Scheduling,SUP-00109,4499.78,7115.8,0.581,97.47,Growth,1
+PRD-00721,Product 0721,Automation,Scheduling,SUP-00160,4160.93,6189.76,0.488,86.38,Decline,0
+PRD-00722,Product 0722,Analytics,Data Modeling,SUP-00159,17272.85,21566.61,0.249,83.6,Growth,1
+PRD-00723,Product 0723,Finance,Budgeting,SUP-00091,16581.37,22044.56,0.329,75.66,Mature,1
+PRD-00724,Product 0724,Operations,Inventory Control,SUP-00001,17676.29,25532.6,0.444,62.27,Intro,1
+PRD-00725,Product 0725,Operations,Procurement,SUP-00137,2699.31,3378.75,0.252,49.43,Mature,1
+PRD-00726,Product 0726,Analytics,Reporting,SUP-00113,12540.03,18101.05,0.443,91.1,Growth,1
+PRD-00727,Product 0727,Operations,Inventory Control,SUP-00052,9443.83,11451.43,0.213,54.33,Growth,1
+PRD-00728,Product 0728,Operations,Logistics,SUP-00141,13543.29,20312.38,0.5,55.71,Mature,1
+PRD-00729,Product 0729,Analytics,Reporting,SUP-00038,3866.56,5073.69,0.312,64.31,Mature,1
+PRD-00730,Product 0730,Finance,Revenue Ops,SUP-00096,608.41,832.33,0.368,39.11,Mature,1
+PRD-00731,Product 0731,Analytics,Dashboards,SUP-00031,2104.98,2496.85,0.186,57.68,Growth,1
+PRD-00732,Product 0732,Finance,Budgeting,SUP-00081,9136.47,13372.65,0.464,51.18,Mature,1
+PRD-00733,Product 0733,Finance,Planning,SUP-00121,17633.96,26130.34,0.482,39.6,Growth,1
+PRD-00734,Product 0734,Automation,RPA,SUP-00116,702.73,1099.39,0.564,42.67,Growth,1
+PRD-00735,Product 0735,Security,Risk Scoring,SUP-00155,10602.08,15904.53,0.5,63.42,Mature,1
+PRD-00736,Product 0736,Analytics,Data Modeling,SUP-00121,3615.9,5342.92,0.478,81.27,Growth,1
+PRD-00737,Product 0737,Analytics,Data Modeling,SUP-00151,1371.93,1872.94,0.365,62.31,Growth,1
+PRD-00738,Product 0738,Security,Compliance,SUP-00142,11259.27,13645.59,0.212,45.25,Growth,0
+PRD-00739,Product 0739,Security,Compliance,SUP-00114,6794.5,9944.55,0.464,52.64,Mature,1
+PRD-00740,Product 0740,Analytics,Data Modeling,SUP-00057,13397.03,15938.33,0.19,69.66,Mature,1
+PRD-00741,Product 0741,Operations,Inventory Control,SUP-00116,6683.18,9821.18,0.47,83.34,Decline,1
+PRD-00742,Product 0742,Finance,Planning,SUP-00007,1868.99,2266.93,0.213,80.15,Decline,1
+PRD-00743,Product 0743,Automation,Workflow,SUP-00043,13209.35,15932.47,0.206,67.94,Mature,1
+PRD-00744,Product 0744,Operations,Logistics,SUP-00076,11781.6,16842.48,0.43,89.62,Growth,1
+PRD-00745,Product 0745,Security,IAM,SUP-00061,16266.32,25780.06,0.585,54.85,Mature,1
+PRD-00746,Product 0746,Security,Risk Scoring,SUP-00046,12560.35,18818.24,0.498,43.87,Growth,1
+PRD-00747,Product 0747,Automation,Workflow,SUP-00011,304.9,453.74,0.488,59.0,Mature,1
+PRD-00748,Product 0748,Finance,Planning,SUP-00146,14934.27,22843.68,0.53,85.3,Decline,0
+PRD-00749,Product 0749,Security,Risk Scoring,SUP-00091,9988.96,13811.44,0.383,75.76,Mature,1
+PRD-00750,Product 0750,Finance,Planning,SUP-00071,280.28,420.72,0.501,82.4,Mature,1
+PRD-00751,Product 0751,Finance,Revenue Ops,SUP-00154,14457.16,20101.42,0.39,62.36,Mature,1
+PRD-00752,Product 0752,Analytics,Forecasting,SUP-00122,13887.04,22189.74,0.598,66.36,Mature,1
+PRD-00753,Product 0753,Security,Risk Scoring,SUP-00107,17993.67,26872.2,0.493,60.31,Intro,1
+PRD-00754,Product 0754,Analytics,Data Modeling,SUP-00066,8727.67,11457.95,0.313,49.31,Growth,1
+PRD-00755,Product 0755,Finance,Revenue Ops,SUP-00070,14034.41,18815.59,0.341,64.57,Decline,1
+PRD-00756,Product 0756,Automation,RPA,SUP-00067,12859.43,18791.91,0.461,60.2,Decline,1
+PRD-00757,Product 0757,Analytics,Dashboards,SUP-00049,8949.14,12430.28,0.389,55.78,Mature,1
+PRD-00758,Product 0758,Automation,Integration,SUP-00151,3192.31,3985.67,0.249,74.3,Growth,1
+PRD-00759,Product 0759,Operations,Procurement,SUP-00080,8035.56,11721.51,0.459,66.19,Mature,1
+PRD-00760,Product 0760,Analytics,Dashboards,SUP-00077,2877.59,4178.89,0.452,86.99,Decline,1
+PRD-00761,Product 0761,Security,IAM,SUP-00056,5535.45,6572.54,0.187,49.29,Growth,1
+PRD-00762,Product 0762,Finance,Budgeting,SUP-00062,15716.39,21185.99,0.348,57.1,Mature,1
+PRD-00763,Product 0763,Automation,Workflow,SUP-00148,4618.72,6938.85,0.502,33.92,Decline,1
+PRD-00764,Product 0764,Analytics,Forecasting,SUP-00127,14889.94,18754.42,0.26,47.16,Growth,1
+PRD-00765,Product 0765,Security,IAM,SUP-00114,654.91,1018.38,0.555,74.71,Intro,1
+PRD-00766,Product 0766,Operations,Maintenance,SUP-00106,8831.59,12626.77,0.43,77.85,Mature,1
+PRD-00767,Product 0767,Automation,Integration,SUP-00042,13353.47,18147.85,0.359,75.8,Mature,1
+PRD-00768,Product 0768,Operations,Procurement,SUP-00022,15589.31,25164.61,0.614,86.09,Mature,1
+PRD-00769,Product 0769,Finance,Planning,SUP-00070,525.88,768.13,0.461,73.27,Mature,1
+PRD-00770,Product 0770,Operations,Procurement,SUP-00103,14349.33,22777.41,0.587,65.14,Growth,1
+PRD-00771,Product 0771,Operations,Logistics,SUP-00003,16051.51,25997.06,0.62,75.45,Decline,1
+PRD-00772,Product 0772,Automation,Scheduling,SUP-00001,2826.42,3906.16,0.382,51.21,Mature,1
+PRD-00773,Product 0773,Automation,Workflow,SUP-00004,1013.13,1356.73,0.339,36.21,Mature,1
+PRD-00774,Product 0774,Finance,Expense Control,SUP-00004,3736.27,5836.07,0.562,57.47,Mature,1
+PRD-00775,Product 0775,Security,Compliance,SUP-00072,4320.64,5117.93,0.185,59.5,Mature,1
+PRD-00776,Product 0776,Analytics,Forecasting,SUP-00081,3486.06,4822.97,0.384,66.07,Mature,1
+PRD-00777,Product 0777,Analytics,Data Modeling,SUP-00070,10663.36,15604.58,0.463,50.61,Intro,1
+PRD-00778,Product 0778,Finance,Planning,SUP-00016,4610.78,7084.87,0.537,53.96,Growth,1
+PRD-00779,Product 0779,Analytics,Data Modeling,SUP-00002,13004.24,19265.18,0.481,77.6,Mature,1
+PRD-00780,Product 0780,Finance,Expense Control,SUP-00100,9307.62,11065.39,0.189,43.5,Growth,1
+PRD-00781,Product 0781,Automation,RPA,SUP-00059,8256.35,12194.47,0.477,62.58,Mature,1
+PRD-00782,Product 0782,Finance,Expense Control,SUP-00020,15633.87,22939.21,0.467,53.72,Mature,1
+PRD-00783,Product 0783,Security,IAM,SUP-00044,10754.34,12733.77,0.184,35.56,Mature,1
+PRD-00784,Product 0784,Operations,Logistics,SUP-00041,4814.97,6315.25,0.312,57.35,Growth,1
+PRD-00785,Product 0785,Operations,Procurement,SUP-00045,1677.23,2325.85,0.387,49.04,Growth,1
+PRD-00786,Product 0786,Security,Threat Detection,SUP-00025,9732.22,14193.11,0.458,57.16,Mature,1
+PRD-00787,Product 0787,Finance,Budgeting,SUP-00054,13471.46,19929.59,0.479,65.66,Growth,1
+PRD-00788,Product 0788,Operations,Inventory Control,SUP-00026,12159.69,17256.81,0.419,27.33,Mature,1
+PRD-00789,Product 0789,Security,Threat Detection,SUP-00096,14502.23,23449.65,0.617,81.85,Growth,1
+PRD-00790,Product 0790,Automation,Workflow,SUP-00065,14031.34,20791.74,0.482,99.0,Decline,1
+PRD-00791,Product 0791,Analytics,Dashboards,SUP-00116,9387.51,11759.82,0.253,48.26,Mature,1
+PRD-00792,Product 0792,Automation,Integration,SUP-00125,4820.96,7234.0,0.501,54.29,Decline,1
+PRD-00793,Product 0793,Operations,Maintenance,SUP-00063,14856.64,18934.27,0.274,50.35,Decline,1
+PRD-00794,Product 0794,Operations,Procurement,SUP-00143,7956.54,9977.28,0.254,45.9,Growth,1
+PRD-00795,Product 0795,Automation,Scheduling,SUP-00158,2566.96,3741.26,0.457,98.17,Mature,1
+PRD-00796,Product 0796,Security,Risk Scoring,SUP-00072,16082.61,22618.94,0.406,59.01,Growth,1
+PRD-00797,Product 0797,Security,IAM,SUP-00094,3759.8,6002.5,0.596,76.11,Mature,1
+PRD-00798,Product 0798,Analytics,Data Modeling,SUP-00072,3060.95,4397.15,0.437,84.3,Growth,1
+PRD-00799,Product 0799,Security,Threat Detection,SUP-00111,3498.44,4931.33,0.41,82.08,Intro,1
+PRD-00800,Product 0800,Finance,Planning,SUP-00018,3801.1,4713.34,0.24,83.36,Mature,1
+PRD-00801,Product 0801,Automation,RPA,SUP-00073,5037.07,7853.13,0.559,41.92,Growth,1
+PRD-00802,Product 0802,Operations,Logistics,SUP-00080,10223.44,13489.62,0.319,79.82,Growth,1
+PRD-00803,Product 0803,Automation,Workflow,SUP-00151,3890.84,5304.72,0.363,57.73,Mature,1
+PRD-00804,Product 0804,Analytics,Dashboards,SUP-00135,15575.73,21825.21,0.401,92.23,Growth,1
+PRD-00805,Product 0805,Automation,RPA,SUP-00087,7778.74,12452.67,0.601,49.29,Decline,1
+PRD-00806,Product 0806,Security,Risk Scoring,SUP-00092,8548.86,11060.19,0.294,43.98,Intro,1
+PRD-00807,Product 0807,Analytics,Forecasting,SUP-00120,12445.14,18435.1,0.481,63.39,Growth,1
+PRD-00808,Product 0808,Operations,Procurement,SUP-00011,1084.58,1616.52,0.49,74.3,Growth,1
+PRD-00809,Product 0809,Operations,Procurement,SUP-00084,5730.0,6824.3,0.191,32.88,Decline,1
+PRD-00810,Product 0810,Security,Threat Detection,SUP-00077,12376.33,16740.87,0.353,56.4,Mature,1
+PRD-00811,Product 0811,Automation,RPA,SUP-00139,6944.82,8319.56,0.198,44.64,Growth,1
+PRD-00812,Product 0812,Analytics,Data Modeling,SUP-00116,1737.06,2160.62,0.244,78.98,Growth,1
+PRD-00813,Product 0813,Operations,Logistics,SUP-00123,8872.86,10772.88,0.214,53.66,Mature,1
+PRD-00814,Product 0814,Automation,Integration,SUP-00013,3972.16,5129.12,0.291,82.42,Decline,1
+PRD-00815,Product 0815,Security,Compliance,SUP-00133,15880.62,23585.15,0.485,51.1,Growth,1
+PRD-00816,Product 0816,Automation,RPA,SUP-00109,2210.55,2752.62,0.245,68.44,Mature,1
+PRD-00817,Product 0817,Automation,RPA,SUP-00011,1436.81,1945.15,0.354,39.8,Mature,1
+PRD-00818,Product 0818,Security,IAM,SUP-00103,10113.46,14483.12,0.432,61.42,Mature,1
+PRD-00819,Product 0819,Automation,Workflow,SUP-00092,3670.52,4661.43,0.27,44.65,Growth,0
+PRD-00820,Product 0820,Security,Threat Detection,SUP-00022,15484.18,20032.2,0.294,89.25,Intro,1
+PRD-00821,Product 0821,Finance,Revenue Ops,SUP-00084,3264.22,4649.94,0.425,81.52,Growth,1
+PRD-00822,Product 0822,Automation,Scheduling,SUP-00134,8568.63,12749.05,0.488,66.95,Mature,1
+PRD-00823,Product 0823,Security,Risk Scoring,SUP-00063,13549.96,18825.5,0.389,80.67,Growth,1
+PRD-00824,Product 0824,Automation,RPA,SUP-00043,986.44,1321.62,0.34,54.77,Growth,1
+PRD-00825,Product 0825,Analytics,Data Modeling,SUP-00045,17993.79,27960.27,0.554,73.66,Growth,0
+PRD-00826,Product 0826,Security,Compliance,SUP-00115,13825.98,21383.81,0.547,61.92,Mature,1
+PRD-00827,Product 0827,Operations,Inventory Control,SUP-00131,6096.56,7922.29,0.299,72.03,Growth,1
+PRD-00828,Product 0828,Automation,Workflow,SUP-00126,8520.78,12740.64,0.495,65.36,Intro,1
+PRD-00829,Product 0829,Automation,Integration,SUP-00047,2865.43,4167.39,0.454,62.32,Intro,1
+PRD-00830,Product 0830,Operations,Procurement,SUP-00070,7131.79,8636.41,0.211,32.5,Growth,1
+PRD-00831,Product 0831,Security,Threat Detection,SUP-00091,5713.97,6901.06,0.208,52.3,Mature,1
+PRD-00832,Product 0832,Security,Risk Scoring,SUP-00113,5586.4,6592.66,0.18,94.12,Mature,1
+PRD-00833,Product 0833,Automation,Workflow,SUP-00080,13889.47,17282.45,0.244,61.32,Mature,1
+PRD-00834,Product 0834,Security,IAM,SUP-00107,14440.41,17792.61,0.232,51.15,Mature,1
+PRD-00835,Product 0835,Analytics,Dashboards,SUP-00082,6637.14,8130.23,0.225,64.13,Intro,1
+PRD-00836,Product 0836,Security,Compliance,SUP-00008,2154.99,2925.46,0.358,37.41,Growth,1
+PRD-00837,Product 0837,Security,IAM,SUP-00150,851.74,1275.6,0.498,55.28,Mature,1
+PRD-00838,Product 0838,Analytics,Data Modeling,SUP-00045,17132.83,23668.31,0.381,66.51,Growth,1
+PRD-00839,Product 0839,Security,IAM,SUP-00143,1924.29,2737.84,0.423,71.73,Growth,1
+PRD-00840,Product 0840,Operations,Maintenance,SUP-00077,11788.45,15653.37,0.328,69.23,Growth,1
+PRD-00841,Product 0841,Security,Compliance,SUP-00095,1696.17,2492.31,0.469,89.07,Growth,1
+PRD-00842,Product 0842,Finance,Revenue Ops,SUP-00141,14303.13,18963.93,0.326,51.9,Intro,1
+PRD-00843,Product 0843,Finance,Expense Control,SUP-00033,6539.93,8609.38,0.316,37.8,Decline,1
+PRD-00844,Product 0844,Analytics,Reporting,SUP-00017,5978.81,9540.74,0.596,57.23,Growth,1
+PRD-00845,Product 0845,Automation,Scheduling,SUP-00030,517.99,711.32,0.373,53.73,Mature,1
+PRD-00846,Product 0846,Automation,Workflow,SUP-00134,17364.03,23903.39,0.377,66.49,Intro,1
+PRD-00847,Product 0847,Security,Risk Scoring,SUP-00018,8753.43,10608.85,0.212,58.42,Growth,1
+PRD-00848,Product 0848,Security,Risk Scoring,SUP-00103,2756.38,4369.91,0.585,65.75,Mature,1
+PRD-00849,Product 0849,Finance,Revenue Ops,SUP-00074,2355.46,3161.37,0.342,65.06,Growth,1
+PRD-00850,Product 0850,Automation,Integration,SUP-00014,12288.78,18178.68,0.479,78.36,Decline,1
+PRD-00851,Product 0851,Security,IAM,SUP-00031,3795.97,5600.16,0.475,63.07,Mature,1
+PRD-00852,Product 0852,Security,Threat Detection,SUP-00131,8959.19,14063.87,0.57,66.78,Mature,1
+PRD-00853,Product 0853,Operations,Procurement,SUP-00072,3545.21,5554.18,0.567,93.58,Growth,1
+PRD-00854,Product 0854,Security,Threat Detection,SUP-00096,6948.35,8669.14,0.248,35.46,Growth,1
+PRD-00855,Product 0855,Security,IAM,SUP-00056,13803.43,16949.28,0.228,66.4,Mature,1
+PRD-00856,Product 0856,Analytics,Forecasting,SUP-00083,572.27,899.17,0.571,61.32,Growth,1
+PRD-00857,Product 0857,Automation,Integration,SUP-00006,4170.17,5423.37,0.301,64.1,Growth,1
+PRD-00858,Product 0858,Security,IAM,SUP-00160,16590.64,25683.25,0.548,73.14,Mature,1
+PRD-00859,Product 0859,Finance,Budgeting,SUP-00127,11886.2,16156.59,0.359,49.1,Growth,1
+PRD-00860,Product 0860,Analytics,Forecasting,SUP-00097,15910.14,21214.17,0.333,53.58,Mature,1
+PRD-00861,Product 0861,Automation,Integration,SUP-00153,510.13,641.9,0.258,75.75,Decline,0
+PRD-00862,Product 0862,Operations,Inventory Control,SUP-00155,15811.22,25424.1,0.608,60.63,Mature,1
+PRD-00863,Product 0863,Security,Threat Detection,SUP-00065,14080.42,17011.36,0.208,46.96,Growth,0
+PRD-00864,Product 0864,Automation,Workflow,SUP-00156,2331.1,3287.7,0.41,76.64,Decline,1
+PRD-00865,Product 0865,Operations,Maintenance,SUP-00051,8008.08,11982.35,0.496,74.03,Decline,1
+PRD-00866,Product 0866,Analytics,Dashboards,SUP-00137,7023.9,9579.96,0.364,65.93,Mature,1
+PRD-00867,Product 0867,Security,Compliance,SUP-00008,15562.65,20387.91,0.31,70.19,Mature,1
+PRD-00868,Product 0868,Finance,Planning,SUP-00058,11955.01,14934.28,0.249,72.79,Mature,1
+PRD-00869,Product 0869,Security,Threat Detection,SUP-00003,13308.79,16846.62,0.266,61.62,Growth,1
+PRD-00870,Product 0870,Operations,Procurement,SUP-00133,16457.82,26262.66,0.596,68.41,Growth,1
+PRD-00871,Product 0871,Operations,Logistics,SUP-00102,5688.84,7746.13,0.362,42.88,Intro,1
+PRD-00872,Product 0872,Operations,Procurement,SUP-00010,1298.28,1550.68,0.194,59.62,Intro,1
+PRD-00873,Product 0873,Operations,Inventory Control,SUP-00087,7880.64,10655.4,0.352,79.53,Intro,1
+PRD-00874,Product 0874,Finance,Revenue Ops,SUP-00037,16914.63,24505.29,0.449,99.0,Growth,1
+PRD-00875,Product 0875,Security,IAM,SUP-00126,12183.95,17691.23,0.452,65.23,Intro,1
+PRD-00876,Product 0876,Automation,RPA,SUP-00032,727.95,889.15,0.221,47.77,Intro,1
+PRD-00877,Product 0877,Security,Compliance,SUP-00088,17714.75,22939.13,0.295,57.1,Mature,1
+PRD-00878,Product 0878,Security,Compliance,SUP-00107,9753.19,14663.07,0.503,38.46,Growth,1
+PRD-00879,Product 0879,Analytics,Reporting,SUP-00031,7174.89,11580.06,0.614,74.54,Decline,1
+PRD-00880,Product 0880,Finance,Planning,SUP-00009,8939.62,12564.55,0.405,63.91,Mature,1
+PRD-00881,Product 0881,Operations,Logistics,SUP-00139,9703.0,11816.69,0.218,46.89,Decline,1
+PRD-00882,Product 0882,Automation,Workflow,SUP-00019,16569.99,25930.56,0.565,59.88,Intro,1
+PRD-00883,Product 0883,Finance,Expense Control,SUP-00143,6593.22,9048.67,0.372,75.13,Growth,1
+PRD-00884,Product 0884,Automation,Integration,SUP-00040,11937.83,17941.36,0.503,64.0,Mature,1
+PRD-00885,Product 0885,Automation,RPA,SUP-00125,2128.19,2740.61,0.288,51.43,Mature,1
+PRD-00886,Product 0886,Automation,Scheduling,SUP-00100,7676.05,12003.75,0.564,80.53,Growth,1
+PRD-00887,Product 0887,Automation,Integration,SUP-00153,16724.16,21697.9,0.297,68.97,Mature,1
+PRD-00888,Product 0888,Operations,Procurement,SUP-00068,13755.27,20430.74,0.485,50.13,Mature,1
+PRD-00889,Product 0889,Finance,Revenue Ops,SUP-00141,16733.74,22696.18,0.356,63.57,Decline,1
+PRD-00890,Product 0890,Security,IAM,SUP-00078,2382.89,3195.49,0.341,27.19,Mature,0
+PRD-00891,Product 0891,Security,IAM,SUP-00075,8435.81,10662.56,0.264,67.56,Mature,1
+PRD-00892,Product 0892,Finance,Revenue Ops,SUP-00137,9480.31,14687.82,0.549,99.0,Growth,1
+PRD-00893,Product 0893,Operations,Inventory Control,SUP-00135,1763.26,2422.68,0.374,81.69,Intro,1
+PRD-00894,Product 0894,Analytics,Dashboards,SUP-00006,9411.15,12829.7,0.363,60.22,Intro,1
+PRD-00895,Product 0895,Security,Risk Scoring,SUP-00117,6880.26,8454.28,0.229,67.31,Growth,1
+PRD-00896,Product 0896,Operations,Inventory Control,SUP-00141,235.83,293.11,0.243,72.32,Mature,1
+PRD-00897,Product 0897,Security,Risk Scoring,SUP-00079,2030.65,2726.58,0.343,73.43,Growth,1
+PRD-00898,Product 0898,Analytics,Forecasting,SUP-00098,8830.24,10587.26,0.199,61.08,Mature,1
+PRD-00899,Product 0899,Automation,Scheduling,SUP-00066,2017.28,2911.98,0.444,25.99,Decline,1
+PRD-00900,Product 0900,Finance,Budgeting,SUP-00143,7232.84,9130.25,0.262,57.1,Growth,0

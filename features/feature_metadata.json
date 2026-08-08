@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-08-05T07:12:10.925341+00:00",
+  "artifact_count": 7,
+  "artifacts": [
+    {
+      "name": "customer_features",
+      "path": "C:\\vs project\\Agilisium MITU\\features\\customer_features.csv",
+      "rows": 8000,
+      "columns": 94,
+      "description": "Model-ready customer features"
+    },
+    {
+      "name": "sales_features",
+      "path": "C:\\vs project\\Agilisium MITU\\features\\sales_features.csv",
+      "rows": 120000,
+      "columns": 58,
+      "description": "Model-ready sales features"
+    },
+    {
+      "name": "finance_features",
+      "path": "C:\\vs project\\Agilisium MITU\\features\\finance_features.csv",
+      "rows": 44,
+      "columns": 40,
+      "description": "Model-ready finance features"
+    },
+    {
+      "name": "marketing_features",
+      "path": "C:\\vs project\\Agilisium MITU\\features\\marketing_features.csv",
+      "rows": 2400,
+      "columns": 36,
+      "description": "Model-ready marketing features"
+    },
+    {
+      "name": "inventory_features",
+      "path": "C:\\vs project\\Agilisium MITU\\features\\inventory_features.csv",
+      "rows": 129600,
+      "columns": 77,
+      "description": "Model-ready inventory features"
+    },
+    {
+      "name": "employee_features",
+      "path": "C:\\vs project\\Agilisium MITU\\features\\employee_features.csv",
+      "rows": 420,
+      "columns": 41,
+      "description": "Model-ready employee features"
+    },
+    {
+      "name": "kpi_features",
+      "path": "C:\\vs project\\Agilisium MITU\\features\\kpi_features.csv",
+      "rows": 8000,
+      "columns": 48,
+      "description": "Model-ready kpi features"
+    }
+  ],
+  "selection_rows": 12,
+  "selected_features": [
+    "customer_health_score",
+    "churn_risk_score",
+    "churn_flag",
+    "customer_health_score_kpi",
+    "churn_risk_score_kpi",
+    "churn_flag_kpi",
+    "total_orders_kpi",
+    "customer_activity_score",
+    "customer_activity_score_standard_scaled",
+    "customer_activity_score_robust_scaled",
+    "engagement_score_kpi",
+    "total_revenue_kpi"
+  ]
+}
