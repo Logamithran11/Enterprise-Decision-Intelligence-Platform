@@ -153,7 +153,6 @@ The objective is not to compare every model using the same metric, but to use ev
 Revenue forecasting is evaluated using regression and forecasting metrics.
 
 | Metric | Description |
-|---|---|
 | MAE | Average absolute prediction error |
 | MSE | Average squared prediction error |
 | RMSE | Root mean squared prediction error |
